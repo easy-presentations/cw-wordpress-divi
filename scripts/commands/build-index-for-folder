@@ -26,9 +26,11 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
       if [ -d "$full_file" ];
       then
           # directory
-          printf '%*s - [%s/](%s/) \n\n' $depth ' ' "$line" "$line" >> "$index_file"
+          printf '%*s - [%s/](%s/) \n' $depth ' ' "$line" "$line" >> "$index_file"
 
           command_exec 'build-index-for-folder' "$full_file" "$index_file" `expr $depth + 4`
+
+          echo '' >> "$index_file"
       else
           # file
           link_name=$(cat "$full_file" | grep "# ")
@@ -40,7 +42,7 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
             link_name="$line"
           fi
 
-          printf '%*s - [%s](%s) \n\n' $depth ' ' "$link_name" "$line" >> "$index_file"
+          printf '%*s - [%s](%s) \n' $depth ' ' "$link_name" "$line" >> "$index_file"
       fi
 
     done
