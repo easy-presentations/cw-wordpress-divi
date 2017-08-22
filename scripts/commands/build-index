@@ -4,21 +4,36 @@
 
 source bootstrap
 
-repository_index_file="$TERMINAL_PATH/index"
+repository_index_file="$TERMINAL_PATH/README.md"
+
+# repository_origin_url=$(git config --get remote.origin.url)
+#
+# repository_ressource_url=$(echo "$repository_origin_url"| rev | cut -c5- | rev)
+#
+# repository_blob_url
+#
+# echo "$repository_blob_url"
+#
+# exit 0
+
 > "$repository_index_file"
 
 for language in "$INDEX_SUPPORTED_LANGS"
 do
+
   possible_lang_folder="$TERMINAL_PATH/$language"
+
   orange "checking $possible_lang_folder for existence"
+
   if [ -d "$possible_lang_folder" ];
   then
-    echo "$language/README.md" >> "$repository_index_file"
+    echo "[$language]($language/README.md)" >> "$repository_index_file"
 
-    index_file="$possible_lang_folder/index"
+    index_file="$possible_lang_folder/README.md"
 
     orange "building: $language -> $index_file"
 
-    command_exec 'build-index-for-language' $possible_lang_folder $index_file
+    command_exec 'build-index-for-folder' $possible_lang_folder $index_file
   fi
+
 done

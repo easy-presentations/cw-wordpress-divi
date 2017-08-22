@@ -1,0 +1,69 @@
+#!/bin/bash
+
+#command-info: build index for the easy-presenter
+
+source bootstrap
+
+source_folder="$1"
+index_file="$2"
+
+rm -f "$index_file"
+
+cd "$source_folder"
+
+find -s . \( -name "*.md" -o -type d \) -print0 |
+    while IFS= read -r -d $'\0' line; do
+
+      if [ ${#line} -le 2 ];
+      then
+        continue
+      fi
+
+      full_file="$source_folder/$line"
+
+      line=${line:2}
+
+      if [ -d "$full_file" ];
+      then
+          # directory
+          echo "[$line/]($line/)" >> "$index_file"
+
+      else
+          # file
+
+
+          link_name=$(cat "$full_file" | grep "# ")
+
+          if [ ${#link_name} -ge 3 ];
+          then
+            link_name=${link_name:2}
+          else
+            link_name="$line"
+          fi
+
+          echo "[$link_name]($line)" >> "$index_file"
+
+      fi
+
+    done
+
+#
+# for presentation_file in $all_files
+# do
+#   full_file="$source_folder/$presentation_file"
+#
+#   if [ -d "$full_file" ];
+#   then
+#
+#     echo "[$presentation_file]($presentation_file)" >> "$index_file"
+#
+#   else
+#     link_name=$(cat "$full_file" | grep "# ")
+#     echo "[$link_name]($presentation_file)" >> "$index_file"
+#
+#   fi
+#
+#
+# done
+
+cd -
