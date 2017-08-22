@@ -6,8 +6,7 @@ export INDEX_SUPPORTED_LANGS=( 'de' 'en' )
 # set terminal app configuration
 export TERMINAL_APP_LOG_ENABLED=0
 
-export TERMINAL_PATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-export TERMINAL_APP_PATH='scripts'
+export TERMINAL_APP_PATH="$TERMINAL_PATH/scripts"
 export TERMINAL_APP_LOG_PATH='logs'
 export TERMINAL_APP_LIB_PATH="$TERMINAL_APP_PATH/lib"
 export TERMINAL_APP_TEST_PATH="$TERMINAL_APP_PATH/test"
