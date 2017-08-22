@@ -2,7 +2,7 @@
 
 #command-info: build index for the easy-presenter
 
-source bootstrap
+source $TERMINAL_PATH/bootstrap
 
 repository_index_file="$TERMINAL_PATH/README.md"
 
@@ -21,9 +21,11 @@ do
 
     index_file="$possible_lang_folder/README.md"
 
+    rm -f "$index_file"
+
     orange "building: $language -> $index_file"
 
-    command_exec 'build-index-for-folder' $possible_lang_folder $index_file
+    command_exec 'build-index-for-folder' "$possible_lang_folder" "$index_file" 0
   fi
 
 done

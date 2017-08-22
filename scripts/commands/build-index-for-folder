@@ -2,16 +2,17 @@
 
 #command-info: build index for the easy-presenter
 
-source bootstrap
+source $TERMINAL_PATH/bootstrap
 
 source_folder="$1"
 index_file="$2"
+depth=$3
 
-rm -f "$index_file"
+echo "$prefix_string"
 
 cd "$source_folder"
 
-find -s . \( -name "*.md" -o -type d \) -print0 |
+find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
     while IFS= read -r -d $'\0' line; do
 
       if [ ${#line} -le 2 ];
@@ -25,8 +26,9 @@ find -s . \( -name "*.md" -o -type d \) -print0 |
       if [ -d "$full_file" ];
       then
           # directory
-          echo "* [$line/]($line/)" >> "$index_file"
+          printf '%*s - [%s/](%s/) \n\n' $depth ' ' "$line" "$line" >> "$index_file"
 
+          command_exec 'build-index-for-folder' "$full_file" "$index_file" `expr $depth + 4`
       else
           # file
           link_name=$(cat "$full_file" | grep "# ")
@@ -38,7 +40,7 @@ find -s . \( -name "*.md" -o -type d \) -print0 |
             link_name="$line"
           fi
 
-          echo "* [$link_name]($line)" >> "$index_file"
+          printf '%*s - [%s](%s) \n\n' $depth ' ' "$link_name" "$line" >> "$index_file"
       fi
 
     done
