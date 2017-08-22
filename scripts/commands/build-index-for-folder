@@ -20,7 +20,6 @@ find -s . \( -name "*.md" -o -type d \) -print0 |
       fi
 
       full_file="$source_folder/$line"
-
       line=${line:2}
 
       if [ -d "$full_file" ];
@@ -30,8 +29,6 @@ find -s . \( -name "*.md" -o -type d \) -print0 |
 
       else
           # file
-
-
           link_name=$(cat "$full_file" | grep "# ")
 
           if [ ${#link_name} -ge 3 ];
@@ -42,28 +39,8 @@ find -s . \( -name "*.md" -o -type d \) -print0 |
           fi
 
           echo "* [$link_name]($line)" >> "$index_file"
-
       fi
 
     done
-
-#
-# for presentation_file in $all_files
-# do
-#   full_file="$source_folder/$presentation_file"
-#
-#   if [ -d "$full_file" ];
-#   then
-#
-#     echo "[$presentation_file]($presentation_file)" >> "$index_file"
-#
-#   else
-#     link_name=$(cat "$full_file" | grep "# ")
-#     echo "[$link_name]($presentation_file)" >> "$index_file"
-#
-#   fi
-#
-#
-# done
 
 cd -

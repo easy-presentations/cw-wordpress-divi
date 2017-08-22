@@ -6,16 +6,6 @@ source bootstrap
 
 repository_index_file="$TERMINAL_PATH/README.md"
 
-# repository_origin_url=$(git config --get remote.origin.url)
-#
-# repository_ressource_url=$(echo "$repository_origin_url"| rev | cut -c5- | rev)
-#
-# repository_blob_url
-#
-# echo "$repository_blob_url"
-#
-# exit 0
-
 > "$repository_index_file"
 
 for language in "$INDEX_SUPPORTED_LANGS"
