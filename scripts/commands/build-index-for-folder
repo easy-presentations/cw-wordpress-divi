@@ -26,7 +26,7 @@ find -s . \( -name "*.md" -o -type d \) -print0 |
       if [ -d "$full_file" ];
       then
           # directory
-          echo "[$line/]($line/)" >> "$index_file"
+          echo "* [$line/]($line/)" >> "$index_file"
 
       else
           # file
@@ -41,7 +41,7 @@ find -s . \( -name "*.md" -o -type d \) -print0 |
             link_name="$line"
           fi
 
-          echo "[$link_name]($line)" >> "$index_file"
+          echo "* [$link_name]($line)" >> "$index_file"
 
       fi
 
