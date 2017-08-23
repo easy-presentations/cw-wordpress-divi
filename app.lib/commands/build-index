@@ -8,8 +8,10 @@ repository_index_file="$TERMINAL_PATH/README.md"
 
 repository_name=$(index_path_to_name $(basename `git rev-parse --show-toplevel`))
 
+# write language undex header
 index_reset_file "$repository_index_file"
-index_write "# $repository_name" "$repository_index_file"
+
+index_write "# Presentation: $repository_name" "$repository_index_file"
 index_newline "$repository_index_file"
 
 index_write "Langauges:" "$repository_index_file"
