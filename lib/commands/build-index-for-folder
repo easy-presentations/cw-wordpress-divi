@@ -65,7 +65,7 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
           fi
 
           $(index_file_write_entry "$link_name" "$relative_path" "$repository_index_file" $depth)
-          $(index_file_write_entry "$link_name" "$relative_path" "$folder_index_file" 0)
+          $(index_file_write_entry "$link_name" "$folder" "$folder_index_file" 0)
       fi
 
     done
