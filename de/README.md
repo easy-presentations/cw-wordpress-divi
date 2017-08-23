@@ -1,3 +1,5 @@
+# Wordpress Divi(de)
+
   - [Overview](01_overview) 
      - [Was ist Wordpress?](01_overview/01_what_is_wordpress.md) 
      - [Was ist ein CMS System?](01_overview/02_what_is_a_cms_system.md) 
@@ -41,6 +43,7 @@
      - [Image Optimization](04_mediathek/02_image_optimization.md) 
      - [Image Replacement](04_mediathek/03_image_replacement.md) 
 
+  - [Wordpress Divi(de)](README.md) 
   - [Advanced](zz_advanced) 
      - [Divi Theme](zz_advanced/11_divi_theme) 
          - [Change Your Logo](zz_advanced/11_divi_theme/01_change_your_logo.md) 

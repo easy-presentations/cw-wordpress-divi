@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#command-info: build index for the easy-presenter
+#command-info: private command, dont use
 
 source $TERMINAL_PATH/app.bootstrap
 

@@ -13,10 +13,23 @@ function index_write_entry {
   printf '%*s - [%s](%s) \n' $depth ' ' "$name" "$path" >> "$file"
 }
 
+function index_write {
+  input="$1"
+  index_file="$2"
+
+  echo "$input" >> "$index_file"
+}
+
 function index_newline {
   index_file="$1"
 
   echo '' >> "$index_file"
+}
+
+function index_reset_file {
+  index_file="$1"
+
+  > "$index_file"
 }
 
 function index_path_to_name {
@@ -24,7 +37,7 @@ function index_path_to_name {
 
   path="${path:3}" # cut of number and whitespace
 
-  path=$(echo "$path" | tr '_' ' ') # eleminate _
+  path=$(echo "$path" | tr '_-' ' ') # eleminate _
 
   path=${path/.md/ } # strip .md ending
 

@@ -6,7 +6,14 @@ source $TERMINAL_PATH/app.bootstrap
 
 repository_index_file="$TERMINAL_PATH/README.md"
 
-> "$repository_index_file"
+repository_name=$(index_path_to_name $(basename `git rev-parse --show-toplevel`))
+
+index_reset_file "$repository_index_file"
+index_write "# $repository_name" "$repository_index_file"
+index_newline "$repository_index_file"
+
+index_write "Langauges:" "$repository_index_file"
+index_newline "$repository_index_file"
 
 for language in "$INDEX_SUPPORTED_LANGS"
 do
@@ -21,7 +28,9 @@ do
 
     index_file="$possible_lang_folder/README.md"
 
-    rm -f "$index_file"
+    index_reset_file "$index_file"
+    index_write "# $repository_name ($language)" "$index_file"
+    index_newline "$index_file"
 
     orange "building: $language -> $index_file"
 
