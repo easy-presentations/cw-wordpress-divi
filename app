@@ -2,7 +2,7 @@
 
 export TERMINAL_PATH="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-source $TERMINAL_PATH/bootstrap
+source $TERMINAL_PATH/app.bootstrap
 
 # if no arg given: print help
 if [ "x$1" == "x" ] ; then

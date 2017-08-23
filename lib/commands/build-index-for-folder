@@ -2,7 +2,7 @@
 
 #command-info: build index for the easy-presenter
 
-source $TERMINAL_PATH/bootstrap
+source $TERMINAL_PATH/app.bootstrap
 
 source_folder="$1"
 index_file="$2"
