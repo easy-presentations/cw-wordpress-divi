@@ -16,6 +16,11 @@ log_set_current_file
 
 sub_command=$2
 
+if [ $TERMINAL_APP_LOG_ENABLED -eq 0 ] ;
+then
+  red "\n  file logging disabled, look into file: app.bootstrap \n"
+fi
+
 # dispatch sub command
 case "$sub_command" in
   head)
