@@ -25,7 +25,7 @@ do
 
     orange "building: $language -> $index_file"
 
-    command_exec 'build-index-for-folder' "$possible_lang_folder" "$index_file" 0 "$language"
+    command_exec 'build-index-for-folder' "$possible_lang_folder" "$index_file" 0
   fi
 
 done
