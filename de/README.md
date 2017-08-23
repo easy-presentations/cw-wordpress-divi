@@ -43,7 +43,21 @@
      - [Image Optimization](04_mediathek/02_image_optimization.md) 
      - [Image Replacement](04_mediathek/03_image_replacement.md) 
 
+  - [Comments](05_comments) 
+
+  - [Menus](06_menus) 
+
+  - [Seo](11_seo) 
+
   - [Advanced](zz_advanced) 
+     - [Plugins](zz_advanced/07_plugins) 
+
+     - [Users](zz_advanced/08_users) 
+
+     - [Backups](zz_advanced/09_backups) 
+
+     - [Security](zz_advanced/10_security) 
+
      - [Divi Theme](zz_advanced/11_divi_theme) 
          - [Change Your Logo](zz_advanced/11_divi_theme/01_change_your_logo.md) 
          - [Edit Social Media Profiles](zz_advanced/11_divi_theme/02_edit_social_media_profiles.md) 
