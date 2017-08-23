@@ -7,42 +7,45 @@ source $TERMINAL_PATH/bootstrap
 source_folder="$1"
 index_file="$2"
 depth=$3
-
-echo "$prefix_string"
+parent_folder="$4"
 
 cd "$source_folder"
 
+# find all folders and md files
 find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
-    while IFS= read -r -d $'\0' line; do
+    while IFS= read -r -d $'\0' folder; do
 
-      if [ ${#line} -le 2 ];
+      # exclude ./
+      if [ ${#folder} -le 2 ];
       then
         continue
       fi
 
-      full_file="$source_folder/$line"
-      line=${line:2}
+      folder=${folder:2} # strip leading ./
+      path_absolute="$source_folder/$folder"
+      relative_path="$parent_folder/$folder"
 
-      if [ -d "$full_file" ];
+      if [ -d "$path_absolute" ]; # if directory
       then
-          # directory
-          printf '%*s - [%s/](%s/) \n' $depth ' ' "$line" "$line" >> "$index_file"
+          path_name=$(index_path_to_name "$folder")
 
-          command_exec 'build-index-for-folder' "$full_file" "$index_file" `expr $depth + 4`
+          index_write_entry "$path_name" "$relative_path" "$index_file" $depth
 
-          echo '' >> "$index_file"
-      else
-          # file
-          link_name=$(cat "$full_file" | grep "# ")
+          command_exec 'build-index-for-folder' "$path_absolute" "$index_file" `expr $depth + 4` "$relative_path"
+
+          index_newline "$index_file"
+
+      else # if file
+          link_name=$(cat "$path_absolute" | grep "# ")
 
           if [ ${#link_name} -ge 3 ];
           then
             link_name=${link_name:2}
           else
-            link_name="$line"
+            link_name=$(index_path_to_name "$folder")
           fi
 
-          printf '%*s - [%s](%s) \n' $depth ' ' "$link_name" "$line" >> "$index_file"
+          index_write_entry "$link_name" "$relative_path" "$index_file" $depth
       fi
 
     done

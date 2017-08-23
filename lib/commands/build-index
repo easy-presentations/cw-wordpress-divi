@@ -17,7 +17,7 @@ do
 
   if [ -d "$possible_lang_folder" ];
   then
-    echo "[$language]($language/README.md)" >> "$repository_index_file"
+    index_write_entry "$language" "$language/README.md" "$repository_index_file" 0
 
     index_file="$possible_lang_folder/README.md"
 
@@ -25,7 +25,7 @@ do
 
     orange "building: $language -> $index_file"
 
-    command_exec 'build-index-for-folder' "$possible_lang_folder" "$index_file" 0
+    command_exec 'build-index-for-folder' "$possible_lang_folder" "$index_file" 0 "$language"
   fi
 
 done
