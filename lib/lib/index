@@ -4,7 +4,6 @@
 
 source "$TERMINAL_APP_LIB_PATH/color"
 
-# function index_write_entry {
 function index_file_write_entry {
   name="$1"
   path="$2"
@@ -14,7 +13,6 @@ function index_file_write_entry {
   printf '%*s - [%s](%s) \n' $depth ' ' "$name" "$path" >> "$file"
 }
 
-# function index_write {
 function index_file_write {
   input="$1"
   index_file="$2"
@@ -22,14 +20,12 @@ function index_file_write {
   echo "$input" >> "$index_file"
 }
 
-#function index_newline {
 function index_file_write_newline {
   index_file="$1"
 
   echo '' >> "$index_file"
 }
 
-#function index_reset_file {
 function index_file_reset {
   index_file="$1"
 
@@ -42,7 +38,7 @@ function index_file_init {
 
   index_file_reset "$index_file"
 
-  index_file_write "# $repository_name" "$index_file"
+  index_file_write "# $headline" "$index_file"
 
   index_file_write_newline "$index_file"
 

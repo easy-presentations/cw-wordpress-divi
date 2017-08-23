@@ -23,7 +23,7 @@ do
 
   if [ -d "$possible_lang_folder" ];
   then
-    index_write_entry "$language" "$language/README.md" "$repository_index_file" 0
+    $(index_write_entry "$language" "$language/README.md" "$repository_index_file" 0)
 
     index_file="$possible_lang_folder/README.md"
 

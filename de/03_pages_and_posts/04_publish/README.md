@@ -1,4 +1,4 @@
-# 
+# Pages And Posts 04 Publish
 
   - [Publish](03_pages_and_posts/04_publish/01_publish.md) 
   - [Publish Delayed](03_pages_and_posts/04_publish/02_publish_delayed.md) 
