@@ -6,8 +6,8 @@
      - [Was ist "System"?](01_overview/05_what_is_system.md) 
 
   - [Basics](02_basics) 
-     - [Figuration](02_basics/configuration.md) 
-     - [Malinks](02_basics/permalinks.md) 
+     - [Configuration](02_basics/01_configuration.md) 
+     - [Permalinks](02_basics/02_permalinks.md) 
 
   - [Pages And Posts](03_pages_and_posts) 
      - [Page Vs Post](03_pages_and_posts/01_page_vs_post.md) 
