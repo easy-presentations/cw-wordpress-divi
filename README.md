@@ -1,5 +1,5 @@
-# Presentation: Wordpress Divi
+# Wordpress Divi
 
-## Langauges:
+### Langauges:
 
   - [de](de/README.md) 
