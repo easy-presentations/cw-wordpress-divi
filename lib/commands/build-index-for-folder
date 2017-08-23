@@ -5,9 +5,14 @@
 source $TERMINAL_PATH/app.bootstrap
 
 source_folder="$1"
-folder_index_file="$2"
+repository_index_file="$2"
 depth=$3
 parent_folder="$4"
+
+folder_index_file="$source_folder/README.md"
+
+subfolder_name=$(index_path_to_name "$parent_folder")
+index_file_init "$subfolder_name" "$folder_index_file"
 
 cd "$source_folder"
 
@@ -36,11 +41,13 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
       then
           path_name=$(index_path_to_name "$folder")
 
-          index_write_entry "$path_name" "$relative_path" "$folder_index_file" $depth
+          index_file_write_entry "$path_name" "$relative_path" "$repository_index_file" $depth
+          index_file_write_entry "$path_name" "$relative_path" "$folder_index_file" 0
 
-          command_exec 'build-index-for-folder' "$path_absolute" "$folder_index_file" `expr $depth + 4` "$relative_path/"
+          command_exec 'build-index-for-folder' "$path_absolute" "$repository_index_file" `expr $depth + 4` "$relative_path/"
 
-          index_newline "$folder_index_file"
+          index_file_write_newline "$repository_index_file"
+          index_file_write_newline "$folder_index_file"
 
       else # if file
           link_name=$(cat "$path_absolute" | grep "# ")
@@ -52,7 +59,8 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
             link_name=$(index_path_to_name "$folder")
           fi
 
-          index_write_entry "$link_name" "$relative_path" "$folder_index_file" $depth
+          index_file_write_entry "$link_name" "$relative_path" "$repository_index_file" $depth
+          index_file_write_entry "$link_name" "$relative_path" "$folder_index_file" 0
       fi
 
     done

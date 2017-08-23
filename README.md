@@ -2,4 +2,3 @@
 
 ### Langauges:
 
-  - [de](de/README.md) 

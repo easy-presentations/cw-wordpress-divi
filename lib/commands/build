@@ -9,13 +9,10 @@ repository_index_file="$TERMINAL_PATH/README.md"
 repository_name=$(index_path_to_name $(basename `git rev-parse --show-toplevel`))
 
 # write language undex header
-index_reset_file "$repository_index_file"
+index_file_init "$repository_name" "$repository_index_file"
 
-index_write "# $repository_name" "$repository_index_file"
-index_newline "$repository_index_file"
-
-index_write "### Langauges:" "$repository_index_file"
-index_newline "$repository_index_file"
+index_file_write "### Langauges:" "$repository_index_file"
+index_file_write_newline "$repository_index_file"
 
 for language in "$INDEX_SUPPORTED_LANGS"
 do
@@ -30,9 +27,7 @@ do
 
     index_file="$possible_lang_folder/README.md"
 
-    index_reset_file "$index_file"
-    index_write "# $repository_name ($language)" "$index_file"
-    index_newline "$index_file"
+    index_file_init "$repository_name ($language)" "$index_file"
 
     orange "building: $language -> $index_file"
 
