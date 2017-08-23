@@ -22,6 +22,13 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
       fi
 
       folder=${folder:2} # strip leading ./
+
+      # exclude de/README.md
+      if [ "$folder" == "README.md" ];
+      then
+        continue
+      fi
+
       path_absolute="$source_folder/$folder"
       relative_path="$parent_folder$folder"
 
@@ -29,11 +36,11 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
       then
           path_name=$(index_path_to_name "$folder")
 
-          index_write_entry "$path_name" "$relative_path" "$index_file" $depth
+          index_write_entry "$path_name" "$relative_path" "$folder_index_file" $depth
 
-          command_exec 'build-index-for-folder' "$path_absolute" "$index_file" `expr $depth + 4` "$relative_path/"
+          command_exec 'build-index-for-folder' "$path_absolute" "$folder_index_file" `expr $depth + 4` "$relative_path/"
 
-          index_newline "$index_file"
+          index_newline "$folder_index_file"
 
       else # if file
           link_name=$(cat "$path_absolute" | grep "# ")
@@ -45,7 +52,7 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
             link_name=$(index_path_to_name "$folder")
           fi
 
-          index_write_entry "$link_name" "$relative_path" "$index_file" $depth
+          index_write_entry "$link_name" "$relative_path" "$folder_index_file" $depth
       fi
 
     done

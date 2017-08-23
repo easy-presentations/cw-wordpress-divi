@@ -43,7 +43,6 @@
      - [Image Optimization](04_mediathek/02_image_optimization.md) 
      - [Image Replacement](04_mediathek/03_image_replacement.md) 
 
-  - [Wordpress Divi (de)](README.md) 
   - [Advanced](zz_advanced) 
      - [Divi Theme](zz_advanced/11_divi_theme) 
          - [Change Your Logo](zz_advanced/11_divi_theme/01_change_your_logo.md) 
