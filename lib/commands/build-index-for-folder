@@ -23,7 +23,7 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
 
       folder=${folder:2} # strip leading ./
       path_absolute="$source_folder/$folder"
-      relative_path="$parent_folder/$folder"
+      relative_path="$parent_folder$folder"
 
       if [ -d "$path_absolute" ]; # if directory
       then
@@ -31,7 +31,7 @@ find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
 
           index_write_entry "$path_name" "$relative_path" "$index_file" $depth
 
-          command_exec 'build-index-for-folder' "$path_absolute" "$index_file" `expr $depth + 4` "$relative_path"
+          command_exec 'build-index-for-folder' "$path_absolute" "$index_file" `expr $depth + 4` "$relative_path/"
 
           index_newline "$index_file"
 
