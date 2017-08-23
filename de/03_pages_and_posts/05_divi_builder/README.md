@@ -1,4 +1,4 @@
-# Pages And Posts 05 Divi Builder
+# Pages And Posts => Divi Builder
 
   - [What Is The Builder](03_pages_and_posts/05_divi_builder/01_what_is_the_builder.md) 
   - [Grid Basics](03_pages_and_posts/05_divi_builder/02_grid_basics.md) 

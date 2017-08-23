@@ -12,7 +12,6 @@ parent_folder="$4"
 if [ $depth -gt 0 ];
 then
   folder_index_file="$source_folder/README.md"
-
   subfolder_name=$(index_path_to_name "$parent_folder")
   index_file_init "$subfolder_name" "$folder_index_file"
 fi
