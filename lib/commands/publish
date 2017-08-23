@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#command-info: add, commit, build indes and push this repository
+#command-info: build index, add, commit and push this repository
 
 source app.bootstrap
 
