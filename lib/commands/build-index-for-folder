@@ -1,11 +1,11 @@
 #!/bin/bash
 
-#command-info: private command, dont use
+#command-info: private
 
 source $TERMINAL_PATH/app.bootstrap
 
 source_folder="$1"
-index_file="$2"
+folder_index_file="$2"
 depth=$3
 parent_folder="$4"
 

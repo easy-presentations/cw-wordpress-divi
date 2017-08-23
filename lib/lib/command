@@ -9,8 +9,13 @@ function command_print_info {
   command_name=$( basename $1 )
   command_info=$( cat "$command_path" | grep 'command-info:' )
 
-  space='                     '
-  printf "$orange %s %s ${command_info:15:60}$color_reset\n" "$command_name" "${space:${#command_name}}"
+  command_info_raw=${command_info:15:60}
+
+  if [ "$command_info_raw" != "private" ] ;
+  then
+    space='                     '
+    printf "$orange %s %s $command_info_raw$color_reset\n" "$command_name" "${space:${#command_name}}"
+  fi
 }
 
 function command_print_help {
