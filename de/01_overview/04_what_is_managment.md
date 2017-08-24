@@ -1,1 +1,1 @@
-# Was ist "Management"?
+# Was ist Management?
