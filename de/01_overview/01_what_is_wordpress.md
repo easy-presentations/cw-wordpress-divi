@@ -8,4 +8,4 @@ Wordpress ist ein Content Management System
 
 ![test-image][test-image]
 
-[test-image]: images/test.jpg "test-image"
+[test-image]: ./images/test.jpg "test-image"
