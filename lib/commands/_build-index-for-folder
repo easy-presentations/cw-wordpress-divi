@@ -11,12 +11,6 @@ parent_folder="$4"
 
 cd "$source_folder"
 
-# if [ $depth -gt 0 ];
-# then
-#   folder_index_file="$source_folder/index.md"
-#   rm -f "$folder_index_file"
-# fi
-
 # find all folders and md files
 find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
     while IFS= read -r -d $'\0' folder; do
