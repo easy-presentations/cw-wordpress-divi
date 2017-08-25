@@ -1,7 +1,7 @@
 # Permalinks
 
-Die Permalink-Struktur besagt, wie die URLs und Links zu einer Webseite aussehen. Idealerweise stehen in den URLs die Titel deiner Inhalte, um es den Suchmaschinen leichter zu machen.
+Die Permalink-Struktur definiert, wie die URLs/Links zu einer Webseite aussehen. Idealerweise stehen in den URLs die Titel deiner Inhalte, um es den Suchmaschinen leichter zu machen.
 
-Die Permalink-Einstellungen findet man unter "Einstellungen / Permalinks".
+Die Permalink-Einstellungen findest du unter "Einstellungen / Permalinks".
 
-![./assets/permalinks.jpg][Wordpress Permalinks]
+![Wordpress Permalinks](./assets/permalinks.jpg)

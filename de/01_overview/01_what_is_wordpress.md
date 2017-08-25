@@ -6,4 +6,4 @@ Wordpress ist ein Content Management System
 - **M**anagement
 - **S**ystem
 
-![./assets/test.jpg][test-image]
+![test-image](./assets/test.jpg)
