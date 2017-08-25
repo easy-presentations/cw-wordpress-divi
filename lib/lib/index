@@ -5,58 +5,38 @@
 source "$TERMINAL_APP_LIB_PATH/color"
 
 function index_file_write_entry {
-  name="$1"
-  path="$2"
-  file="$3"
-  depth=$4
+  __depth=$1
+  __file="$2"
+  __name="$3"
+  __path="$4"
 
-  printf '%*s - [%s](%s) \n' $depth ' ' "$name" "$path" >> "$file"
-}
-
-function index_file_write {
-  input="$1"
-  index_file="$2"
-
-  echo "$input" >> "$index_file"
-}
-
-function index_file_write_newline {
-  index_file="$1"
-
-  echo '' >> "$index_file"
-}
-
-function index_file_reset {
-  index_file="$1"
-
-  > "$index_file"
+  printf '%*s - [%s](%s) \n' $__depth ' ' "$__name" "$__path" >> "$__file"
 }
 
 function index_file_init {
-  headline="$1"
-  index_file="$2"
+  __index_file="$1"
+  __headline="$2"
 
-  index_file_reset "$index_file"
+  file_clear "$__index_file"
 
-  index_file_write "# $headline" "$index_file"
+  file_append "$__index_file" "# $__headline"
 
-  index_file_write_newline "$index_file"
-
+  file_append_newline "$__index_file"
 }
 
 function index_path_to_name {
-  path="$1"
+  __path="$1"
 
-  path="${path:3}" # cut of number and whitespace
+  __path="${__path:3}" # cut of number and whitespace
 
-  path=$(echo "$path" | sed 's/[0-9]\{2\}_/ => /g')
-  path=$(echo "$path" | tr '_-' ' ') # eleminate _ and -
-  path=$(echo "$path" | tr '/' ' - ') # replace /
+  __path=$(echo "$__path" | sed 's/[0-9]\{2\}_/ => /g')
+  __path=$(echo "$__path" | tr '_-' ' ') # eleminate _ and -
+  __path=$(echo "$__path" | tr '/' ' - ') # replace /
 
-  path=${path/.md/ } # strip .md ending
+  __path=${__path/.md/ } # strip .md ending
 
   # uc first all words
-  path=$(awk '{for(i=0;++i<=NF;){OFS=(i==NF)?RS:FS;printf toupper(substr($i,0,1)) substr($i,2) OFS }}' <<< "$path")
+  __path=$(awk '{for(i=0;++i<=NF;){OFS=(i==NF)?RS:FS;printf toupper(substr($i,0,1)) substr($i,2) OFS }}' <<< "$__path")
 
-  echo "$path"
+  echo "$__path"
 }

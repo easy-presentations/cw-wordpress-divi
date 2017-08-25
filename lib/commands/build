@@ -2,36 +2,16 @@
 
 #command-info: build index for the easy-presenter
 
-source $TERMINAL_PATH/app.bootstrap
+source "$TERMINAL_PATH/app.bootstrap"
 
 repository_index_file="$TERMINAL_PATH/README.md"
 
-repository_name=$(index_path_to_name $(basename `git rev-parse --show-toplevel`))
+# write language index header
+index_file_init "$repository_index_file" "$repository_name"
 
-# write language undex header
-index_file_init "$repository_name" "$repository_index_file"
+file_append "$repository_index_file" "### Langauges:"
 
-index_file_write "### Langauges:" "$repository_index_file"
-index_file_write_newline "$repository_index_file"
+file_append_newline "$repository_index_file"
 
-for language in "$INDEX_SUPPORTED_LANGS"
-do
-
-  possible_lang_folder="$TERMINAL_PATH/$language"
-
-  orange "checking $possible_lang_folder for existence"
-
-  if [ -d "$possible_lang_folder" ];
-  then
-    $(index_file_write_entry "$language" "$language/README.md" "$repository_index_file" 0)
-
-    index_file="$possible_lang_folder/README.md"
-
-    index_file_init "$repository_name ($language)" "$index_file"
-
-    orange "building: $language -> $index_file"
-
-    command_exec 'build-index-for-folder' "$possible_lang_folder" "$index_file" 0
-  fi
-
-done
+# build inside language folder
+command_exec '_build-toplevel-folder' "$repository_index_file"

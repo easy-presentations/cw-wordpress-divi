@@ -1,0 +1,76 @@
+#!/bin/bash
+
+#command-info: private
+
+source "$TERMINAL_PATH/app.bootstrap"
+
+source_folder="$1"
+repository_index_file="$2"
+depth=$3
+parent_folder="$4"
+
+cd "$source_folder"
+
+# if [ $depth -gt 0 ];
+# then
+#   folder_index_file="$source_folder/index.md"
+#   rm -f "$folder_index_file"
+# fi
+
+# find all folders and md files
+find -s . \( -name "*.md" -o -type d \) -maxdepth 1 -print0 |
+    while IFS= read -r -d $'\0' folder; do
+
+      folder=${folder:2} # strip leading ./
+
+      path_absolute="$source_folder/$folder"
+
+      relative_path="$parent_folder$folder"
+
+      # exclude README.md, assets/, teaser.md, ./
+      if [ "$folder" == 'README.md' ] || [ "$folder" == 'teaser.md' ] || [ "$folder" == 'assets' ] || [ "x$folder" == "x" ];
+      then
+        continue
+      fi
+
+      if [ -d "$path_absolute" ]; # if directory
+      then
+
+          # a README.md insite of a folder means: is the first slide
+          possible_decriptive_file="$path_absolute/README.md"
+          if [ -f "$possible_decriptive_file" ];
+          then
+            path_name=$(cat "$possible_decriptive_file" | grep "# ")
+            if [ ${#path_name} -ge 3 ];
+            then
+              path_name=${path_name:2}
+            else
+              path_name=$(index_path_to_name "$path_name")
+            fi
+          # or use the path name as first slide
+          else
+            path_name=$(index_path_to_name "$folder")
+          fi
+
+          $(index_file_write_entry $depth "$repository_index_file" "$path_name" "$relative_path")
+
+          command_exec '_build-index-for-folder' "$path_absolute" "$repository_index_file" `expr $depth + 4` "$relative_path/"
+
+          file_append_newline "$repository_index_file"
+
+      else # if file
+          link_name=$(cat "$path_absolute" | grep "# ")
+
+          if [ ${#link_name} -ge 3 ];
+          then
+            link_name=${link_name:2}
+          else
+            link_name=$(index_path_to_name "$folder")
+          fi
+
+          $(index_file_write_entry $depth "$repository_index_file" "$link_name" "$relative_path" )
+      fi
+
+    done
+
+cd -

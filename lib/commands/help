@@ -11,7 +11,12 @@ green 'Available commands:'
 for command in "$TERMINAL_APP_COMMAND_PATH"/*
 do
   # print command info
-  command_print_info $command
+  command_name=$(basename "$command")
+  if [ ${command_name:0:1} != "_" ];
+  then
+    command_print_info $command
+  fi
+
 done
 
 newline
