@@ -10,31 +10,31 @@ juhu
      - [Was ist Management?](./01_overview/04_what_is_managment.md) 
      - [Was ist System?](./01_overview/05_what_is_system.md) 
 
-  - [Basics](./02_basics) 
+  - [Grundlagen](./02_basics) 
      - [Configuration](./02_basics/01_configuration.md) 
      - [Permalinks](./02_basics/02_permalinks.md) 
 
   - [Inhalte erstellen und bearbeiten](./03_publish_content) 
      - [Seiten vs. Beiträge](./03_publish_content/01_pages_vs_posts.md) 
-     - [Pages](./03_publish_content/02_pages) 
-         - [Was ist eine Seiten](./03_publish_content/02_pages/01_what_is_a_page.md) 
+     - [Seiten](./03_publish_content/02_pages) 
+         - [Was ist eine Seite](./03_publish_content/02_pages/01_what_is_a_page.md) 
          - [Create](./03_publish_content/02_pages/02_create.md) 
          - [Edit](./03_publish_content/02_pages/03_edit.md) 
          - [Delete](./03_publish_content/02_pages/04_delete.md) 
 
      - [Posts](./03_publish_content/03_posts) 
-         - [Was ist ein Beitrag](./03_publish_content/03_posts/01_what_is_a_post.md) 
+         - [Was ist ein Beitrag (Post)](./03_publish_content/03_posts/01_what_is_a_post.md) 
          - [Create](./03_publish_content/03_posts/02_create.md) 
          - [Edit](./03_publish_content/03_posts/03_edit.md) 
          - [Delete](./03_publish_content/03_posts/04_delete.md) 
 
-     - [Publish](./03_publish_content/04_publish) 
+     - [Publizieren von Inhalten](./03_publish_content/04_publish) 
          - [Publish](./03_publish_content/04_publish/01_publish.md) 
          - [Publish Delayed](./03_publish_content/04_publish/02_publish_delayed.md) 
          - [Publish With Password](./03_publish_content/04_publish/03_publish_with_password.md) 
          - [Unpublish](./03_publish_content/04_publish/04_unpublish.md) 
 
-     - [Divi Builder](./03_publish_content/05_divi_builder) 
+     - [Der Divi-Builder](./03_publish_content/05_divi_builder) 
          - [What Is The Builder](./03_publish_content/05_divi_builder/01_what_is_the_builder.md) 
          - [Grid Basics](./03_publish_content/05_divi_builder/02_grid_basics.md) 
          - [Module Basics](./03_publish_content/05_divi_builder/03_module_basics.md) 
@@ -46,13 +46,13 @@ juhu
      - [Image Optimization](./04_mediathek/02_image_optimization.md) 
      - [Image Replacement](./04_mediathek/03_image_replacement.md) 
 
-  - [Comments](./05_comments) 
+  - [Kommentare](./05_comments) 
 
-  - [Menus](./06_menus) 
+  - [Menüs](./06_menus) 
 
-  - [Seo](./11_seo) 
+  - [SEO für Seiten und Beiträge](./11_seo) 
 
-  - [Advanced](./zz_advanced) 
+  - [Fortgeschritten](./zz_advanced) 
      - [Plugins](./zz_advanced/07_plugins) 
 
      - [Users](./zz_advanced/08_users) 
