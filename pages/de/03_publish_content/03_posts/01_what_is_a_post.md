@@ -1,4 +1,4 @@
-# Was ist ein Beitrag
+# Was ist ein Beitrag (Post)
 
 Beiträge sind die Einträge, die in umgekehrter chronologischer Reihenfolge auf der Startseite deines Blogs erscheinen.
 

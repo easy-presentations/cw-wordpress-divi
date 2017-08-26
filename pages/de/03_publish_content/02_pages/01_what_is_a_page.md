@@ -1,4 +1,4 @@
-# Was ist eine Seiten
+# Was ist eine Seite
 
 **Seiten** werden genutzt um statische Inhalte darzustellen. Eine „Über mich“- oder Impressum-Seite ist ein klassisches Beispiel.
 
