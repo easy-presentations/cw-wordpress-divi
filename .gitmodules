@@ -1,3 +1,3 @@
 [submodule "indexer"]
-	path = indexer
-	url = git@github.com:easy-presenter/easy-presentations-indexer.git
+  path = indexer
+  url = https://github.com/easy-presenter/easy-presentations-indexer.git
