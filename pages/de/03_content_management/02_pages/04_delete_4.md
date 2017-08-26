@@ -4,4 +4,4 @@ Um eine gelöschte Seite unwiderruflich zu löschen, navigiere in der Seitenleis
 
 Wähle nun die Seite aus, die du wieder unwiderruflich löschen möchtest, halte den Mauszeiger darüber und klicke auf Unwiderruflich löschen.
 
-![test-image](./assets/really_relete.jpg)
+![test-image](./assets/really_delete.jpg)

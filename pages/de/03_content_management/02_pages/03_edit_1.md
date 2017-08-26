@@ -4,4 +4,4 @@ Wenn du im Seitenmenü auf "Seiten" klickst, wird dir eine Übersicht deiner Sei
 
 Wähle aus der Liste die Seite aus, die du bearbeiten möchtest.
 
-![test-image](./assets/open.jpg)
+![test-image](./assets/overview.jpg)

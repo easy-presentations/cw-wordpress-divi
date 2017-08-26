@@ -26,7 +26,7 @@
      - [Beitrag wiederherstellen](./03_posts/04_delete_3.md) 
      - [Beitrag unwiderruflich löschen](./03_posts/04_delete_4.md) 
 
-  - [veröffentlichen von Inhalten](./04_publish) 
+  - [Veröffentlichen von Inhalten](./04_publish) 
      - [Veröffentlichen](./04_publish/01_publish.md) 
      - [Veröffentlichen](./04_publish/02_published.md) 
      - [Veröffentlichen - passwortgeschützt (1/3)](./04_publish/03_publish_with_password_1.md) 
