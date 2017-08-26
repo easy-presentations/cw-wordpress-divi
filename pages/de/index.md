@@ -5,7 +5,6 @@
      - [What Is Content](03_what_is_content.md) 
      - [What Is Managment](04_what_is_managment.md) 
      - [What Is System](05_what_is_system.md) 
-     - [E](page.md) 
 
   - [Basics](02_basics) 
      - [Configuration](01_configuration.md) 
@@ -49,7 +48,6 @@
 
   - [Seo](11_seo) 
 
-  - [E](page.md) 
   - [Advanced](zz_advanced) 
      - [Plugins](07_plugins) 
 
