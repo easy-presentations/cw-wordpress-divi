@@ -10,8 +10,7 @@
      - [2 Basics => Configuration](./02_basics/01_configuration.md) 
      - [2 Basics => Permalinks](./02_basics/02_permalinks.md) 
 
-  - [3 Pages And Posts](./03_pages_and_posts) 
-     - [3 Pages And Posts => Page Vs Post](./03_pages_and_posts/01_page_vs_post.md) 
+  - [Seiten vs. Beiträge](./03_pages_and_posts) 
      - [3 Pages And Posts => Pages](./03_pages_and_posts/02_pages) 
          - [3 Pages And Posts => Pages => What Is A Page](./03_pages_and_posts/02_pages/01_what_is_a_page.md) 
          - [3 Pages And Posts => Pages => Create](./03_pages_and_posts/02_pages/02_create.md) 
