@@ -5,8 +5,8 @@
 source "$TERMINAL_APP_LIB_PATH/color"
 
 function command_print_info {
-  __command_path=$1
-  __command_name=$( basename $1 )
+  __command_path="$1"
+  __command_name=$( basename "$1" )
   __command_info=$( cat "$__command_path" | grep 'command-info:' )
 
   __command_info_raw=${__command_info:15:60}

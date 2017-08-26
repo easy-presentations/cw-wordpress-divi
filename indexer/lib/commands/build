@@ -4,14 +4,30 @@
 
 source "$TERMINAL_PATH/app.bootstrap"
 
-repository_index_file="$TERMINAL_PATH/README.md"
+index_file_language="$EASY_PRESENTER_SOURCE/README.md"
+parent_folder=''
+depth=0
 
-# write language index header
-index_file_init "$repository_index_file" "$repository_name"
+file_clear "$index_file_language"
 
-file_append "$repository_index_file" "### Langauges:"
+index_file_init "$index_file_language" "Available languages:"
 
-file_append_newline "$repository_index_file"
+for language_path in "$EASY_PRESENTER_SOURCE"/*
+do
+  language_path_absolute="$EASY_PRESENTER_SOURCE/$language_path"
 
-# build inside language folder
-command_exec '_build-toplevel-folder' "$repository_index_file"
+  # if it is a file
+  if [ -f "$language_path" ];
+  then
+    continue
+  fi
+
+  language=$(basename "$language_path")
+
+  # write language index file
+  file_append "$index_file_language" "  - [$language](./$language)"
+
+  index_file_pages="$language_path/index.md"
+
+  # command_exec '_build-index-for-folder' "$language_path" "$index_file_pages" "$parent_folder" $depth
+done
