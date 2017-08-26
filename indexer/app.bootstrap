@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# your custom configuration
-export INDEX_SUPPORTED_LANGS=( 'de' 'en' )
+export EASY_PRESENTER_SOURCE="$TERMINAL_PATH/../pages"
 
 # set terminal app configuration
 export TERMINAL_APP_LOG_ENABLED=0
@@ -14,9 +13,9 @@ export TERMINAL_APP_COMMAND_PATH="$TERMINAL_APP_PATH/commands"
 
 # you can put you very private config into a file
 # named 'bootstrap.local' and add it to your git ginore file
-if [ -f 'app.bootstrap.local' ];
+if [ -f "$TERMINAL_PATH/app.bootstrap.local" ];
 then
-   source 'app.bootstrap.local'
+   source "$TERMINAL_PATH/app.bootstrap.local"
 fi
 
 # load lib scripts
