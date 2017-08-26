@@ -1,8 +1,12 @@
 # Fortgeschritten
 
   - [Plugins](./07_plugins) 
+     - [Was sind Plugins](./07_plugins/01_wat_are_plugins.md) 
+     - [Installierte Plugins](./07_plugins/02_installed_plugins.md) 
 
-  - [Users](./08_users) 
+  - [Benutzer](./08_users) 
+     - [Was sind Benutzer](./08_users/01_what_are_users.md) 
+     - [Benutzer editieren](./08_users/02_manage.md) 
 
   - [Backups](./09_backups) 
 
