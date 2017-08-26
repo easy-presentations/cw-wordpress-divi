@@ -1,4 +1,5 @@
 
+  - [Seiten vs. Beiträge](./01_pages_vs_posts.md) 
   - [Pages](./02_pages) 
      - [Was ist eine Seiten](./02_pages/01_what_is_a_page.md) 
      - [Create](./02_pages/02_create.md) 
