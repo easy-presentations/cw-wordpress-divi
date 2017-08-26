@@ -7,10 +7,10 @@ source "$TERMINAL_APP_LIB_PATH/color"
 function index_file_write {
   __file="$1"
   __depth=$2
+  __path_relative="$4"
   __name="$3"
-  __path="$4"
 
-  printf '%*s - [%s](%s) \n' $__depth ' ' "$__name" "$__path" >> "$__file"
+  printf '%*s - [%s](%s) \n' $__depth ' ' "$__path_relative" "$__name" >> "$__file"
 }
 
 function index_file_init {
@@ -19,7 +19,10 @@ function index_file_init {
 
   file_clear "$__index_file"
 
-  file_append "$__index_file" "# $__headline"
+  if [ "x$__headline" != "x" ];
+  then
+    file_append "$__index_file" "# $__headline"
+  fi
 
   file_append_newline "$__index_file"
 }
@@ -41,39 +44,26 @@ function index_path_to_name {
   echo "$__path"
 }
 
-function index_name_from_page {
-  __entry_name=$(cat "$path_absolute" | grep "# ")
-
-  # we have more then 2 chars, so more then '# ', use the followinf chars
-  if [ ${#__entry_name} -ge 3 ];
-  then
-    __entry_name=${__entry_name:2}
-  else
-    __entry_name=$(index_path_to_name "$folder")
-  fi
-}
-
 function index_name_from_path_or_page {
   __folder_to_scan="$1"
-
-  __possible_folder_page="$__folder_to_scan/README.md"
+  __relative_path="$2"
+  __possible_folder_page="$__folder_to_scan/page.md"
 
   # a README.md insite of a folder means: is the first slide
   if [ -f "$__possible_folder_page" ];
   then
     __entry_name=$(cat "$__possible_folder_page" | grep "# ")
-
     # we have more then 2 chars, so more then '# ', use the followinf chars
     if [ ${#__entry_name} -ge 3 ];
     then
       __entry_name=${__entry_name:2}
     else
       # or use the path name as name
-      __entry_name=$(index_path_to_name "$__entry_name")
+      __entry_name=$(index_path_to_name "$__relative_path")
     fi
   # or use the path name as name
   else
-    __entry_name=$(index_path_to_name "$folder")
+    __entry_name=$(index_path_to_name "$__relative_path")
   fi
 
   echo "$__entry_name"
