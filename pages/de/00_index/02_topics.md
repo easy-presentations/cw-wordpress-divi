@@ -1,8 +1,10 @@
-  - [Wordpress - ein Überblick](/01_overview) 
-  - [Grundlagen](/02_basics) 
-  - [Inhalte erstellen und bearbeiten](/03_content_management) 
-  - [Mediathek](/04_mediathek) 
-  - [Kommentare](/05_comments) 
-  - [Menüs](/06_menus) 
-  - [Suchmaschinen-Optimierung](/07_seo) 
-  - [Fortgeschritten](/zz_advanced) 
+# Topics
+
+  - [Wordpress - ein Überblick
+  - [Grundlagen
+  - [Inhalte erstellen und bearbeiten
+  - [Mediathek
+  - [Kommentare
+  - [Menüs
+  - [Suchmaschinen-Optimierung
+  - [Fortgeschritten
