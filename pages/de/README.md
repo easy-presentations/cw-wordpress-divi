@@ -2,7 +2,9 @@
 
 Auf den folgenden Seiten erfährst du alles, was du brauchst um deine Webseite zu Pflegen und um Inhalte zu ergänzen.
 
-Wenn du Fragen hast, schreib uns einfach unter: [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
+Wenn du Fragen hast, schreib uns einfach an:
+
+[support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
 
   - [Wordpress - ein Überblick](./01_overview) 
      - [Was ist Wordpress?](./01_overview/01_what_is_wordpress.md) 

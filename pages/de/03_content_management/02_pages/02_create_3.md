@@ -2,7 +2,7 @@
 
 Wenn du jetzt auf "speichern" klickst, wird deine Seite als Entwurf gespeichert.
 
+![image](./assets/save.jpg)
+
 ### Anmerkung
 Wenn die Seite einen Titel erhält, generiert Wordpress automatisch daraus einen Permalink (URL unter der die Seite angezeigt wird).
-
-![image](./assets/save.jpg)
