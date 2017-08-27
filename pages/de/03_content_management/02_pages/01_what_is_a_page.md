@@ -6,6 +6,6 @@ Du findest sie im Wordpress-Admin-Menü unter "Seiten"
 
 Seiten können hierarchisch strukturiert werden. (Eltern-/Kind-Seiten)
 
-Die URL für eine Seite kann z.b. so aussehen:
+Die URL für eine Seite kann z.B. so aussehen:
 
   * http://blogname.wordpress.com/titel-der-seite/
