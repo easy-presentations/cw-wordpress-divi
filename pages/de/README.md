@@ -6,6 +6,10 @@ Wenn du Fragen hast, schreib uns einfach an:
 
 [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
 
+  - [Herzlich Willkommen =)](./00_index) 
+     - [Wordpress + Divi](./00_index/01_teaser.md) 
+     - [Topics](./00_index/02_topics.md) 
+
   - [Wordpress - ein Überblick](./01_overview) 
      - [Was ist Wordpress?](./01_overview/01_what_is_wordpress.md) 
      - [Was ist ein CMS System?](./01_overview/02_what_is_a_cms_system.md) 
