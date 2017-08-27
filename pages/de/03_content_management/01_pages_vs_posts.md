@@ -4,7 +4,7 @@ Inhalte bestehen im wesentlichen aus Beiträgen und Seiten.
 
 **Seiten**
   * werden genutzt um statische Inhalte darzustellen
-  * Eine „Über mich“- oder Impressum-Seite ist ein klassisches Beispiel
+  * eine „Über mich“- oder Impressum-Seite ist ein klassisches Beispiel
 
 **Beiträge**
   * repräsentieren ein Ereignis (z.B. "neulich in der Warteschlange")
