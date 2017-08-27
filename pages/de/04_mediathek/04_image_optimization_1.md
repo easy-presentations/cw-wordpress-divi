@@ -1,4 +1,4 @@
-# Bilder-Optimierung (1/2)
+## Bilder-Optimierung (1/2)
 
 Die Dateigröße eines Bildes hat Einfluß auf dei Ladezeit deiner Webseite.
 

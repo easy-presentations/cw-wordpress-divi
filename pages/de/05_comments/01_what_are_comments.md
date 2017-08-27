@@ -1,4 +1,4 @@
-# Was sind Kommentare
+## Was sind Kommentare?
 
 Kommentare bieten Besuchern deiner Webseite die Möglichkeit, den Inhalt oder einer Seite oder eines Beitrages zu kommentieren.
 

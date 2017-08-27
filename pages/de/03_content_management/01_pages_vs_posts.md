@@ -1,4 +1,4 @@
-# Seiten und Beiträge
+## Seiten und Beiträge
 
 Inhalte bestehen im wesentlichen aus Beiträgen und Seiten.
 

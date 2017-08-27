@@ -1,7 +1,7 @@
-# Seite wiederherstellen
+## Seite wiederherstellen
 
 Um eine gelöschte Seite wiederherzustellen, navigiere in der Seitenleiste zu "Seiten" und klicke auf „Papierkorb“.
 
 Wähle nun die Seite aus, die du wieder herstellen möchtest, halte den Mauszeiger darüber und klicke auf „Wiederherstellen“.
 
-![test-image](./assets/restore.jpg)
+![image](./assets/restore.jpg)

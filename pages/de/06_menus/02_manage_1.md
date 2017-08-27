@@ -1,4 +1,4 @@
-# Menüs verwalten (1/2)
+## Menüs verwalten (1/2)
 
 Um die Menüs zu verwalten, klicke auf "Design / Menüs".
 
@@ -8,4 +8,4 @@ Mittels Drag&Drop kann die Anordnung der Menü-Punkte verändert werden.
 
 Zum Speichern nach Änderungen klicke "Menü speichern".
 
-![test-image](./assets/manage_select.jpg)
+![image](./assets/manage_select.jpg)

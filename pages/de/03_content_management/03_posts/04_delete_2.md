@@ -1,4 +1,4 @@
-# Beitrag gelöscht
+## Beitrag gelöscht
 
 Der Beitrag wurde in den „Papierkorb“ verschoben.
 

@@ -1,6 +1,6 @@
 
   - [Veröffentlichen](./01_publish.md) 
-  - [Veröffentlichen](./02_published.md) 
+  - [Veröffentlicht](./02_published.md) 
   - [Veröffentlichen - passwortgeschützt (1/3)](./03_publish_with_password_1.md) 
   - [Veröffentlichen - passwortgeschützt (2/3)](./03_publish_with_password_2.md) 
   - [Veröffentlichen - passwortgeschützt (3/3)](./03_publish_with_password_3.md) 

@@ -1,4 +1,4 @@
-# Was sind Plugins
+## Was sind Plugins?
 
 Ein Plugin ist eine Datei (oder eine Sammlung von Dateien) welches nach Aktivierung Wordpress um einen bestimmten Funktionsumfang erweitert.
 

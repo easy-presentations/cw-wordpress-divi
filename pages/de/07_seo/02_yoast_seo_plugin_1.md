@@ -1,4 +1,4 @@
-# Plugin: Yoast SEO
+## Plugin: Yoast SEO
 
 Ein beliebtes SEO-Tool in Wordpress ist Yoast SEO.
 

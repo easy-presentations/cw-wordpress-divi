@@ -1,4 +1,4 @@
-# Was ist ein Grid
+## Was ist ein Grid?
 
 Ein "Grid" teilt die Seite in ein Raster ein in das die Elemente des Page-Builders eingefügt werden können.
 
@@ -8,4 +8,4 @@ Eine Sektion kann ein oder mehrere **Zeilen** beinhalten.
 
 Eine Zeile besteht aus ein oder mehreren **Spalten**.
 
-![test-image](./assets/grid_skeletton.jpg)
+![image](./assets/grid_skeletton.jpg)

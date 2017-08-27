@@ -1,5 +1,5 @@
 
-  - [Was ist ein Beitrag (Post)](./01_what_is_a_post.md) 
+  - [Was ist ein Beitrag/Post?](./01_what_is_a_post.md) 
   - [Beitrag erstellen (1/3)](./02_create_1.md) 
   - [Beitrag erstellen (2/3)](./02_create_2.md) 
   - [Beitrag erstellen (3/3)](./02_create_3.md) 

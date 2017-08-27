@@ -1,4 +1,4 @@
-# Dokumenation: Wordpress + Divi
+# Wordpress + Divi
 
 Auf den folgenden Seiten erfährst du alles, was du brauchst um deine Webseite zu Pflegen und um Inhalte zu ergänzen.
 
@@ -12,13 +12,13 @@ Wenn du Fragen hast, schreib uns einfach unter: [support@creative-workflow.berli
      - [Was ist System?](./01_overview/05_what_is_system.md) 
 
   - [Grundlagen](./02_basics) 
-     - [Configuration](./02_basics/01_configuration.md) 
+     - [Konfiguration](./02_basics/01_configuration.md) 
      - [Permalinks](./02_basics/02_permalinks.md) 
 
   - [Inhalte erstellen und bearbeiten](./03_content_management) 
      - [Seiten und Beiträge](./03_content_management/01_pages_vs_posts.md) 
      - [Seiten](./03_content_management/02_pages) 
-         - [Was ist eine Seite](./03_content_management/02_pages/01_what_is_a_page.md) 
+         - [Was ist eine Seite?](./03_content_management/02_pages/01_what_is_a_page.md) 
          - [Seite erstellen (1/3)](./03_content_management/02_pages/02_create_1.md) 
          - [Seite erstellen (2/3)](./03_content_management/02_pages/02_create_2.md) 
          - [Seite erstellen (3/3)](./03_content_management/02_pages/02_create_3.md) 
@@ -31,7 +31,7 @@ Wenn du Fragen hast, schreib uns einfach unter: [support@creative-workflow.berli
          - [Seite unwiderruflich löschen](./03_content_management/02_pages/04_delete_4.md) 
 
      - [Beiträge / Posts](./03_content_management/03_posts) 
-         - [Was ist ein Beitrag (Post)](./03_content_management/03_posts/01_what_is_a_post.md) 
+         - [Was ist ein Beitrag/Post?](./03_content_management/03_posts/01_what_is_a_post.md) 
          - [Beitrag erstellen (1/3)](./03_content_management/03_posts/02_create_1.md) 
          - [Beitrag erstellen (2/3)](./03_content_management/03_posts/02_create_2.md) 
          - [Beitrag erstellen (3/3)](./03_content_management/03_posts/02_create_3.md) 
@@ -45,7 +45,7 @@ Wenn du Fragen hast, schreib uns einfach unter: [support@creative-workflow.berli
 
      - [Veröffentlichen von Inhalten](./03_content_management/04_publish) 
          - [Veröffentlichen](./03_content_management/04_publish/01_publish.md) 
-         - [Veröffentlichen](./03_content_management/04_publish/02_published.md) 
+         - [Veröffentlicht](./03_content_management/04_publish/02_published.md) 
          - [Veröffentlichen - passwortgeschützt (1/3)](./03_content_management/04_publish/03_publish_with_password_1.md) 
          - [Veröffentlichen - passwortgeschützt (2/3)](./03_content_management/04_publish/03_publish_with_password_2.md) 
          - [Veröffentlichen - passwortgeschützt (3/3)](./03_content_management/04_publish/03_publish_with_password_3.md) 
@@ -59,10 +59,10 @@ Wenn du Fragen hast, schreib uns einfach unter: [support@creative-workflow.berli
          - [Wieder "Verstecken" (3/3)](./03_content_management/04_publish/06_unpublish_3.md) 
 
      - [Der Divi-Builder](./03_content_management/05_divi_builder) 
-         - [Was ist der "Divi-Builder"](./03_content_management/05_divi_builder/01_what_is_the_builder.md) 
-         - [Was ist ein Grid](./03_content_management/05_divi_builder/02_what_is_a_grid.md) 
-         - [Was ist eine Zeile](./03_content_management/05_divi_builder/03_what_is_row.md) 
-         - [Was ist ein Modul](./03_content_management/05_divi_builder/04_what_is_a_module.md) 
+         - [Was ist der "Divi-Builder"?](./03_content_management/05_divi_builder/01_what_is_the_builder.md) 
+         - [Was ist ein Grid?](./03_content_management/05_divi_builder/02_what_is_a_grid.md) 
+         - [Was ist eine Zeile?](./03_content_management/05_divi_builder/03_what_is_row.md) 
+         - [Was ist ein Modul?](./03_content_management/05_divi_builder/04_what_is_a_module.md) 
          - [Ein Module einfügen (1/4)](./03_content_management/05_divi_builder/05_insert_module_1.md) 
          - [Ein Module einfügen (2/4)](./03_content_management/05_divi_builder/05_insert_module_2.md) 
          - [Ein Module einfügen (3/4)](./03_content_management/05_divi_builder/05_insert_module_3.md) 
@@ -79,19 +79,19 @@ Wenn du Fragen hast, schreib uns einfach unter: [support@creative-workflow.berli
      - [Bilder ersetzen](./04_mediathek/05_image_replacement.md) 
 
   - [Kommentare](./05_comments) 
-     - [Was sind Kommentare](./05_comments/01_what_are_comments.md) 
+     - [Was sind Kommentare?](./05_comments/01_what_are_comments.md) 
      - [Kommentare aktivieren/deaktivieren (1/3)](./05_comments/02_settings_1.md) 
      - [Kommentare aktivieren/deaktivieren (2/3)](./05_comments/02_settings_2.md) 
      - [Kommentare aktivieren/deaktivieren (3/3)](./05_comments/02_settings_3.md) 
      - [Kommentare verwalten](./05_comments/03_manage.md) 
 
   - [Menüs](./06_menus) 
-     - [Was sind Menüs](./06_menus/01_what_are_menus.md) 
+     - [Was sind Menüs?](./06_menus/01_what_are_menus.md) 
      - [Menüs verwalten (1/2)](./06_menus/02_manage_1.md) 
      - [Menüs verwalten (2/2)](./06_menus/02_manage_2.md) 
 
   - [Suchmaschinen-Optimierung](./07_seo) 
-     - [Was ist Suchmaschinen-Optimierung](./07_seo/01_what_is_seo.md) 
+     - [Was ist Suchmaschinen-Optimierung?](./07_seo/01_what_is_seo.md) 
      - [Plugin: Yoast SEO](./07_seo/02_yoast_seo_plugin_1.md) 
      - [Yoast SEO: Beitrags-Einstellungen (1/5)](./07_seo/02_yoast_seo_plugin_2.md) 
      - [Yoast SEO: "Snippet"-Bearbeiten (2/5)](./07_seo/02_yoast_seo_plugin_3.md) 
@@ -101,19 +101,19 @@ Wenn du Fragen hast, schreib uns einfach unter: [support@creative-workflow.berli
 
   - [Fortgeschritten](./zz_advanced) 
      - [Plugins](./zz_advanced/07_plugins) 
-         - [Was sind Plugins](./zz_advanced/07_plugins/01_wat_are_plugins.md) 
+         - [Was sind Plugins?](./zz_advanced/07_plugins/01_wat_are_plugins.md) 
          - [Installierte Plugins](./zz_advanced/07_plugins/02_installed_plugins.md) 
 
      - [Benutzer](./zz_advanced/08_users) 
-         - [Was sind Benutzer](./zz_advanced/08_users/01_what_are_users.md) 
+         - [Was sind Benutzer?](./zz_advanced/08_users/01_what_are_users.md) 
          - [Benutzer editieren](./zz_advanced/08_users/02_manage.md) 
 
      - [Backups](./zz_advanced/09_backups) 
 
-     - [Security](./zz_advanced/10_security) 
+     - [Sicherheit](./zz_advanced/10_security) 
 
-     - [Divi Theme](./zz_advanced/11_divi_theme) 
-         - [Change Your Logo](./zz_advanced/11_divi_theme/01_change_your_logo.md) 
-         - [Edit Social Media Profiles](./zz_advanced/11_divi_theme/02_edit_social_media_profiles.md) 
+     - [Divi-Theme](./zz_advanced/11_divi_theme) 
+         - [Logo ändern](./zz_advanced/11_divi_theme/01_change_your_logo.md) 
+         - [Social-Media Links hinzufügen](./zz_advanced/11_divi_theme/02_edit_social_media_profiles.md) 
 
 

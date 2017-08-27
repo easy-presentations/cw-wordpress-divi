@@ -1,4 +1,4 @@
-# Was sind Benutzer
+## Was sind Benutzer?
 
 Benutzer sind Personen, die die Berechtigung haben Teile deiner Webseite zu ändern (also z.B. du ;).
 

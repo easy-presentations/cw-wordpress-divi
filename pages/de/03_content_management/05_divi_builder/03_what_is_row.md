@@ -1,7 +1,7 @@
-# Was ist eine Zeile
+## Was ist eine Zeile?
 
 Eine Zeile kann in ein oder mehrere Spalten eingeteilt werden.
 
 Hier siehst du eine Übersicht, wie du eine Zeile in Spalten einteilen kannst:
 
-![test-image](./assets/grid_collumn_variants.jpg)
+![image](./assets/grid_collumn_variants.jpg)

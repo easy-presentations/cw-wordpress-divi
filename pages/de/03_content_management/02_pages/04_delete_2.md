@@ -1,4 +1,4 @@
-# Seite gelöscht
+## Seite gelöscht
 
 Die Seite wurde in den „Papierkorb“ verschoben.
 

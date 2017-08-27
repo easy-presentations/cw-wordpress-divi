@@ -1,5 +1,5 @@
-# Ein Module einfügen (4/4)
+## Ein Module einfügen (4/4)
 
 Wähle aus der Liste der Module das für dich zutreffende (z.b. "Text").
 
-![test-image](./assets/modules_overview.jpg)
+![image](./assets/modules_overview.jpg)

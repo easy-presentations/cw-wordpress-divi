@@ -1,8 +1,8 @@
 
-  - [Was ist der "Divi-Builder"](./01_what_is_the_builder.md) 
-  - [Was ist ein Grid](./02_what_is_a_grid.md) 
-  - [Was ist eine Zeile](./03_what_is_row.md) 
-  - [Was ist ein Modul](./04_what_is_a_module.md) 
+  - [Was ist der "Divi-Builder"?](./01_what_is_the_builder.md) 
+  - [Was ist ein Grid?](./02_what_is_a_grid.md) 
+  - [Was ist eine Zeile?](./03_what_is_row.md) 
+  - [Was ist ein Modul?](./04_what_is_a_module.md) 
   - [Ein Module einfügen (1/4)](./05_insert_module_1.md) 
   - [Ein Module einfügen (2/4)](./05_insert_module_2.md) 
   - [Ein Module einfügen (3/4)](./05_insert_module_3.md) 

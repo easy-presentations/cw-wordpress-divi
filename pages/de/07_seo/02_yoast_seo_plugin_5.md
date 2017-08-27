@@ -1,4 +1,4 @@
-# Yoast SEO: Crawler (4/5)
+## Yoast SEO: Crawler (4/5)
 
 Im Seitentab „Fortgeschrittene“ gibt es die Möglichkeit, den "Google-Crawler" zu steuern.
 
