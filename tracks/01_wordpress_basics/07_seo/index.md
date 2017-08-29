@@ -1,4 +1,5 @@
 
+  - [Suchmaschinen-Optimierung](./00_teaser.md) 
   - [Was ist Suchmaschinen-Optimierung?](./01_what_is_seo.md) 
   - [Plugin: Yoast SEO](./02_yoast_seo_plugin_1.md) 
   - [Yoast SEO: Beitrags-Einstellungen (1/5)](./02_yoast_seo_plugin_2.md) 

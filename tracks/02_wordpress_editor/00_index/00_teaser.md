@@ -1,4 +1,4 @@
-# Wordpress + Divi
+# Wordpress Editor
 
 Auf den folgenden Seiten erfährst du alles, was du brauchst um die Inhalte deiner Webseite zu ändern oder zu erweitern.
 

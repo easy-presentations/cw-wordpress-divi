@@ -1,10 +1,8 @@
 # Topics
 
-  - Wordpress - ein Überblick
-  - Grundlagen
-  - Inhalte erstellen und bearbeiten
-  - Mediathek
-  - Kommentare
-  - Menüs
-  - Suchmaschinen-Optimierung
-  - Fortgeschritten
+  - Wordpress für Fortgeschrittene
+  - Plugins
+  - Benutzer
+  - Backups
+  - Sicherheit
+  - Divi-Theme

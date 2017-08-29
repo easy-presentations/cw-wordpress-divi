@@ -1,4 +1,4 @@
-# Wordpress + Divi
+# Wordpress Grundlagen
 
 Auf den folgenden Seiten erfährst du alles über die Grundlagen im Umgang mit Wordpress.
 

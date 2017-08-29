@@ -1,4 +1,4 @@
-# Wordpress + Divi
+# Wordpress für Fortgeschrittene
 
 Auf den folgenden Seiten erfährst du als Fortgeschrittener Benutzer mehr über die interne Funktionsweise von Wordpress.
 

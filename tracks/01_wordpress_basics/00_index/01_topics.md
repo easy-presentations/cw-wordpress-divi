@@ -1,10 +1,9 @@
 # Topics
 
+  - Wordpress Grundlagen
   - Wordpress - ein Überblick
   - Grundlagen
-  - Inhalte erstellen und bearbeiten
   - Mediathek
   - Kommentare
   - Menüs
   - Suchmaschinen-Optimierung
-  - Fortgeschritten

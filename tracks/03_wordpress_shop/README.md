@@ -1,7 +1,12 @@
-# Wordpress + Divi
+# Wordpress Shop
 
 Auf den folgenden Seiten erfährst du alles darüber, wie du deinen Shop verwaltest.
 
 Wenn du Fragen hast, schreib uns einfach an:
 
 [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
+
+  - [Wordpress Shop](./00_index) 
+     - [Wordpress Shop](./00_index/00_teaser.md) 
+     - [Topics](./00_index/01_topics.md) 
+

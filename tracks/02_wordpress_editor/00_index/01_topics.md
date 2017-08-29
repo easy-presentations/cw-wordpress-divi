@@ -1,10 +1,8 @@
 # Topics
 
-  - Wordpress - ein Überblick
-  - Grundlagen
-  - Inhalte erstellen und bearbeiten
-  - Mediathek
-  - Kommentare
-  - Menüs
-  - Suchmaschinen-Optimierung
-  - Fortgeschritten
+  - Wordpress Editor
+  - Page Elements
+  - Posts vs. Pages
+  - Beiträge / Posts
+  - Veröffentlichen von Inhalten
+  - Der Divi-Builder

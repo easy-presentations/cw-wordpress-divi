@@ -1,3 +1,3 @@
 
-  - [Wordpress + Divi](./01_teaser.md) 
-  - [Topics](./02_topics.md) 
+  - [Wordpress Editor](./00_teaser.md) 
+  - [Topics](./01_topics.md) 

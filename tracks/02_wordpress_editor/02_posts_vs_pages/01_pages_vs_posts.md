@@ -2,6 +2,8 @@
 
 Inhalte bestehen im wesentlichen aus Beiträgen und Seiten.
 
+Beide unterscheiden sich nur geringfügig in ihrer Bearbeitung und Funktion
+
 **Seiten**
   * werden genutzt um statische Inhalte darzustellen
   * eine „Über mich“- oder Impressum-Seite ist ein klassisches Beispiel
