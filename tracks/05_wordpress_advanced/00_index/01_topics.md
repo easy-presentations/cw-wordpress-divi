@@ -4,5 +4,6 @@
   - Plugins
   - Benutzer
   - Backups
+  - Permalinks
   - Sicherheit
   - Divi-Theme
