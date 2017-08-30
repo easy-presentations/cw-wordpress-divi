@@ -1,9 +1,10 @@
-# Beiträge / Posts
+# Beiträge
 
-  - [Beiträge / Posts](./00_teaser.md) 
-  - [Beitrag erstellen (1/3)](./02_create_1.md) 
-  - [Beitrag erstellen (2/3)](./02_create_2.md) 
-  - [Beitrag erstellen (3/3)](./02_create_3.md) 
+  - [Beiträge](./00_teaser.md) 
+  - [Beitrag erstellen (1/4)](./02_create_1.md) 
+  - [Beitrag erstellen (2/4)](./02_create_2.md) 
+  - [Beitrag erstellen (3/4)](./02_create_3.md) 
+  - [Beitrag erstellen (4/4)](./02_create_4.md) 
   - [Beitrag bearbeiten (1/3)](./03_edit_1.md) 
   - [Beitrag bearbeiten (2/3)](./03_edit_2.md) 
   - [Beitrag bearbeiten (3/3)](./03_edit_3.md) 

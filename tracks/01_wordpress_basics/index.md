@@ -23,7 +23,9 @@
      - [Medium löschen](./04_mediathek/03_delete.md) 
      - [Bilder-Optimierung (1/2)](./04_mediathek/04_image_optimization_1.md) 
      - [Bilder-Optimierung (2/2)](./04_mediathek/04_image_optimization_2.md) 
-     - [Bilder ersetzen](./04_mediathek/05_image_replacement.md) 
+     - [Bilder ersetzen (1/3)](./04_mediathek/05_image_replacement_1.md) 
+     - [Bilder ersetzen (2/3)](./04_mediathek/05_image_replacement_2.md) 
+     - [Bilder ersetzen (3/3)](./04_mediathek/05_image_replacement_3.md) 
 
   - [Kommentare](./05_comments) 
      - [Kommentare](./05_comments/00_teaser.md) 

@@ -2,7 +2,7 @@
 
   - Wordpress Editor
   - Page Elements
-  - Posts vs. Pages
-  - Beiträge / Posts
+  - Seiten vs. Beiträge
+  - Beiträge
   - Veröffentlichen von Inhalten
   - Der Divi-Builder

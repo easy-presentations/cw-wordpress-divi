@@ -1,4 +1,4 @@
-## Beitrag erstellen (2/3)
+## Beitrag erstellen (2/4)
 
 Gib dem neuen Beitrag einen Titel und stelle das Seitenlayout auf „Volle Breite“.
 
