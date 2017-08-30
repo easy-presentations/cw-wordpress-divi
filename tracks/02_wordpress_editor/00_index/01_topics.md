@@ -1,7 +1,7 @@
 # Topics
 
   - Wordpress Editor
-  - Page Elements
+  - Aufbau einer Webseite
   - Seiten vs. Beiträge
   - Beiträge
   - Veröffentlichen von Inhalten
