@@ -1,3 +1,3 @@
 ## Bearbeitung
 
-Da sich Seiten und Beiträge nur geringfügig unterscheiden zeigen wir dir Anhand von Beiträgen, wie du diese Erstellen und Bearbeiten kannst.
+Da sich Seiten und Beiträge nur geringfügig unterscheiden, zeigen wir dir anhand von Beiträgen, wie du diese erstellen und bearbeiten kannst.

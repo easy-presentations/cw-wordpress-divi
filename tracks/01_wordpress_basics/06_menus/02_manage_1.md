@@ -1,6 +1,6 @@
 ## Menüs verwalten (1/2)
 
-Um die Menüs zu verwalten, klicke auf "Design / Menüs".
+Um die Menüs zu verwalten, klicke im Seitenmenü auf "Design / Menüs".
 
 Wenn mehrere Menüs angelegt wurden, achte darauf im richtigen Menü zu sein.
 

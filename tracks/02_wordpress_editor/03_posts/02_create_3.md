@@ -1,6 +1,6 @@
 ## Beitrag erstellen (3/3)
 
-Wenn du jetzt auf "speichern" klickst, wird dein Beitrag als Entwurf gespeichert.
+Wenn du jetzt auf "Speichern" klickst, wird dein Beitrag als Entwurf gespeichert.
 
 ![image](./assets/save.jpg)
 

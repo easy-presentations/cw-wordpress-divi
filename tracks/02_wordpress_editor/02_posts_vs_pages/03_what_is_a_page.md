@@ -2,9 +2,9 @@
 
 **Seiten** werden genutzt um statische Inhalte darzustellen. Eine „Über mich“- oder Impressum-Seite ist ein klassisches Beispiel.
 
-Du findest sie im Wordpress-Admin-Menü unter "Seiten"
+Du findest sie im Seitenmenü unter "Seiten".
 
-Seiten können hierarchisch strukturiert werden. (Eltern-/Kind-Seiten)
+Seiten können hierarchisch strukturiert werden (Eltern-/Kind-Seiten).
 
 Die URL für eine Seite kann z.B. so aussehen:
 

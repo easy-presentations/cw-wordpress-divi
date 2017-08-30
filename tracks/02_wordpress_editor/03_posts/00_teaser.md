@@ -1,1 +1,1 @@
-# Beiträge / Posts
+# Beiträge

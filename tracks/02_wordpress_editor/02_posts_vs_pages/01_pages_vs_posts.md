@@ -1,8 +1,8 @@
 ## Seiten und Beiträge
 
-Inhalte bestehen im wesentlichen aus Beiträgen und Seiten.
+Inhalte bestehen im wesentlichen aus Seiten und Beiträgen.
 
-Beide unterscheiden sich nur geringfügig in ihrer Bearbeitung und Funktion
+Beide unterscheiden sich nur geringfügig in ihrer Bearbeitung und Funktion.
 
 **Seiten**
   * werden genutzt um statische Inhalte darzustellen

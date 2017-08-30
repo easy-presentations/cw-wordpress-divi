@@ -1,1 +1,1 @@
-# Posts vs. Pages
+#  Seiten vs. Beiträge
