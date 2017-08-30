@@ -1,4 +1,4 @@
-## Ein Module einfügen (1/4)
+## Ein Module einfügen (1/6)
 
 Klicke auf "Den Divi-Builder benutzen" um den Page-Builder zu aktivieren.
 

@@ -1,6 +1,6 @@
-## Ein Module einfügen (3/4)
+## Ein Module einfügen (3/6)
 
-Danach wählt du den Grid und fügst in die Spalte das Modul ein, welches du verwenden möchtest.
+Danach wählt du den Grid und fügst in die Spalte das Modul ein, das du verwenden möchtest.
 
 Zum Beispiel: Text, Bild, Galerie, ….
 
