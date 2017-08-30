@@ -5,10 +5,10 @@
 
   - [Aufbau einer Webseite](./01_page_elements) 
      - [Aufbau einer Webseite](./01_page_elements/00_teaser.md) 
-     - [Basic](./01_page_elements/01_basic.md) 
+     - [Elemente einer Webseite](./01_page_elements/01_basic.md) 
      - [Header](./01_page_elements/02_header.md) 
      - [Inhalt](./01_page_elements/03_content.md) 
-     - [Inhalt](./01_page_elements/04_footer.md) 
+     - [Footer](./01_page_elements/04_footer.md) 
 
   - [Seiten vs. Beiträge](./02_posts_vs_pages) 
      - [Seiten vs. Beiträge](./02_posts_vs_pages/00_teaser.md) 
