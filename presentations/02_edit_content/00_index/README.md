@@ -2,7 +2,7 @@
 
 Auf den folgenden Seiten erfährst du alles, was du brauchst um die Inhalte deiner Webseite zu ändern oder zu erweitern.
 
-Wenn du Fragen hast, schreib uns:
+Wenn du Fragen oder Anregungen hast:
 
 [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
 
