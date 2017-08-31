@@ -8,4 +8,4 @@ Seiten können hierarchisch strukturiert werden (Eltern-/Kind-Seiten).
 
 Die URL für eine Seite kann z.B. so aussehen:
 
-  * http://blogname.wordpress.com/titel-der-seite/
+  * http://www.meine-webseite.de/titel-der-seite/
