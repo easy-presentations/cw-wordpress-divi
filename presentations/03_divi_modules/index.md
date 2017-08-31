@@ -11,6 +11,6 @@
      - [Admin Label](./01_text_modul/04_admin_label.md) 
      - [Text-Modul speichern](./01_text_modul/05_save_module.md) 
      - [Seite/Beitrag speichern](./01_text_modul/06_save_post.md) 
-     - [Umfließen eines Bildes mit Text *(1/2)](./01_text_modul/07_flow_text_1.md) 
-     - [Umfließen eines Bildes mit Text (2/2)](./01_text_modul/07_flow_text_2.md) 
+     - [Umfließen eines Bildes mit Text *(1/2)*](./01_text_modul/07_flow_text_1.md) 
+     - [Umfließen eines Bildes mit Text *(2/2)*](./01_text_modul/07_flow_text_2.md) 
 
