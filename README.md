@@ -1,12 +1,25 @@
-# esay-presentations
+# Creative-Workflow Wordpress Dokumentation
 
-## cw-wordpress-divi
+Hier findest du die Dokumentation zu deiner Wordpress-Webseite von [Creative-Workflow](https://www.creative-workflow.berlin).
 
-Hier findest du die Dokumenation zu deiner Wordpress-Webseite von [Creative-Workflow](https://www.creative-workflow.berlin).
+Du kannst die Dokumentation in verschiedenen Formaten abrufen:
 
-Schaue in den ['tracks'-Ordner](./tracks) um dir die Dokumentation in Textform an zu sehen.
+#### Online-Präsentation
 
-Oder nutze den [easy-presenter](https://easy-presenter.github.io/easy-presenter/), um die Dokumentation in Form einer Bildschirm-Präsentation zu betrachten (Wenn du den Bowser Chorme verwendest, kannst du sie hier auch als PDF-Datei herunterladen).
+  * https://easy-presenter.github.io/easy-presenter/?repository=cw-wordpress-divi
 
 
-...brought to you with love by [creative-workflow](https://www.creative-workflow.berlin) =)
+#### PDF-Datei zum Herunterladen
+
+  * https://github.com/easy-presentations/cw-wordpress-divi/tree/master/presentations.pdf
+
+
+#### Webbrowser
+
+  * https://github.com/easy-presentations/cw-wordpress-divi/tree/master/presentations
+
+
+## Kontakt
+  * [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
+  * https://www.creative-workflow.berlin
+  
