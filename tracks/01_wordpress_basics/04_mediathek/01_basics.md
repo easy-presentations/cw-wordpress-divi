@@ -1,4 +1,4 @@
-## Grundlagen
+## Was ist eine Mediathek?
 
 In der Mediathek werden sämtliche Medien verwaltet, die du innerhalb von Wordpress hochgeladen hast.
 

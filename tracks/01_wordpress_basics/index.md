@@ -17,7 +17,7 @@
 
   - [Mediathek](./04_mediathek) 
      - [Mediathek](./04_mediathek/00_teaser.md) 
-     - [Grundlagen](./04_mediathek/01_basics.md) 
+     - [Was ist eine Mediathek?](./04_mediathek/01_basics.md) 
      - [Einstellungen](./04_mediathek/02_settings.md) 
      - [Medium löschen](./04_mediathek/03_delete.md) 
      - [Bilder-Optimierung (1/2)](./04_mediathek/04_image_optimization_1.md) 
