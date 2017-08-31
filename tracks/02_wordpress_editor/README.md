@@ -50,9 +50,9 @@ Wenn du Fragen hast, schreib uns einfach an:
      - [Veröffentlichen - mit Verzögerung (3/5)](./04_publish/04_publish_delayed_3.md) 
      - [Veröffentlichen - mit Verzögerung (4/5)](./04_publish/04_publish_delayed_4.md) 
      - [Veröffentlichen - mit Verzögerung (5/5)](./04_publish/04_publish_delayed_5.md) 
-     - [Wieder "Verstecken" (1/3)](./04_publish/06_unpublish_1.md) 
-     - [Wieder "Verstecken" (2/3)](./04_publish/06_unpublish_2.md) 
-     - [Wieder "Verstecken" (3/3)](./04_publish/06_unpublish_3.md) 
+     - [Wieder "Verstecken" (1/3)](./04_publish/05_unpublish_1.md) 
+     - [Wieder "Verstecken" (2/3)](./04_publish/05_unpublish_2.md) 
+     - [Wieder "Verstecken" (3/3)](./04_publish/05_unpublish_3.md) 
 
   - [Der Divi-Builder](./05_divi_builder) 
      - [Der Divi-Builder](./05_divi_builder/00_teaser.md) 
