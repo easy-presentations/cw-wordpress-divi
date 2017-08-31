@@ -13,7 +13,10 @@
 
   - [Grundlagen](./02_basics) 
      - [Grundlagen](./02_basics/00_teaser.md) 
-     - [Konfiguration](./02_basics/01_configuration.md) 
+     - [Login im Backend](./02_basics/01_login.md) 
+     - [Dashboard](./02_basics/02_dashboard.md) 
+     - [Abmelden](./02_basics/03_logout.md) 
+     - [E-Mail und Passwort ändern](./02_basics/04_change_user_settings.md) 
 
   - [Mediathek](./04_mediathek) 
      - [Mediathek](./04_mediathek/00_teaser.md) 
