@@ -2,13 +2,11 @@
 
 ## cw-wordpress-divi
 
-Here you can find the slides in html, markdown and pdf format.
+Hier findest du die Dokumenation zu deiner Wordpress-Webseite von [Creative-Workflow](https://www.creative-workflow.berlin).
 
-Look into the [pages folder](./pages) and choose your language.
+Schaue in den ['tracks'-Ordner](./tracks) um dir die Dokumentation in Textform an zu sehen.
 
-
-
-...brought to you with love from [creative-workflow](https://www.creative-workflow.berlin) =)
+Oder nutze den [easy-presenter](https://easy-presenter.github.io/easy-presenter/), um die Dokumentation in Form einer Bildschirm-Präsentation zu betrachten (Wenn du den Bowser Chorme verwendest, kannst du sie hier auch als PDF-Datei herunterladen).
 
 
-#TODO: add more usefull informations
+...brought to you with love by [creative-workflow](https://www.creative-workflow.berlin) =)
