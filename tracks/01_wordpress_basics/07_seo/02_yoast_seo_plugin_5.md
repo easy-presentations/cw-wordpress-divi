@@ -1,6 +1,6 @@
 ## Yoast SEO: Crawler (4/5)
 
-Im Seitentab „Fortgeschrittene“ gibt es die Möglichkeit, den "Google-Crawler" zu steuern.
+Im Seitentab "Fortgeschrittene" gibt es die Möglichkeit, den "Google-Crawler" zu steuern.
 
 Der "Google-Crawler" ist ein Programm, das deine Seite einliest und in die Google-Suche integriert.
 

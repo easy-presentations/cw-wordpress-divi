@@ -6,7 +6,7 @@ Beide unterscheiden sich nur geringfügig in ihrer Bearbeitung und Funktion.
 
 **Seiten**
   * werden genutzt um statische Inhalte darzustellen
-  * eine „Über mich“- oder Impressum-Seite ist ein klassisches Beispiel
+  * eine "Über mich"- oder Impressum-Seite ist ein klassisches Beispiel
 
 **Beiträge**
   * repräsentieren ein Ereignis (z.B. "neulich in der Warteschlange")
