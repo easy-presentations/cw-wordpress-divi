@@ -1,5 +1,6 @@
   - [Wordpress Grundlagen](./01_wordpress_basics)
   - [Wordpress Editor](./02_wordpress_editor)
-  - [Wordpress Shop](./03_wordpress_shop)
+  - [Divi Module](./03_divi_modules)
   - [Wordpress Terminbuchung](./04_wordpress_booking)
-  - [Wordpress für Fortgeschrittene](./05_wordpress_advanced)
+  - [Wordpress Shop](./05_wordpress_shop)
+  - [Wordpress für Fortgeschrittene](./06_wordpress_advanced)
