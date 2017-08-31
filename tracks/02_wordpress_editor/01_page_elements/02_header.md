@@ -1,5 +1,5 @@
 ## Header
 
-Im Header findet man das Logo und das Menü zur Navigation.
+Im Header findest du das Logo und das Menü zur Navigation.
 
 ![image](./assets/header.jpg)

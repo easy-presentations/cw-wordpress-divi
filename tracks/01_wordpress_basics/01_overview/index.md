@@ -1,5 +1,5 @@
 
-  - [Wordpress - ein Überblick](./00_teaser.md) 
+  - [Überblick](./00_teaser.md) 
   - [Was ist Wordpress?](./01_what_is_wordpress.md) 
   - [Was ist ein CMS-System?](./02_what_is_a_cms_system.md) 
   - [Was ist Content?](./03_what_is_content.md) 

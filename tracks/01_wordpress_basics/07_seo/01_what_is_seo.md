@@ -1,5 +1,9 @@
 ## Was ist Suchmaschinen-Optimierung?
 
-Das Ziel von SEO (Search Engine Optimization) ist nicht einfach nur ganz oben in Suchmaschinen wie Google zu erscheinen, sondern durch die Darstellung des in Suchmaschinen zur Verfügung stehenden Textes (Snippet / SERP) den Nutzer zu einem Klick auf dein Ergebnis zu motivieren.
+Das Hauptziel von SEO (Search Engine Optimization) ist es deine Webseite möglichst weit oben in der Suchergebnis-Liste zu platzieren.
+
+Das erreichst du, in dem du eine möglichst aussagekräftige "Meta-Description" angibst.
+
+Eine Ergebnisdarstellung (Snippet / SERP) sieht z.B. so aus:
 
 ![image](./assets/serp.png)

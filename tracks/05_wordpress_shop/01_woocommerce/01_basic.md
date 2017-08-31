@@ -1,5 +1,5 @@
 ## Woocommerce
 
-Im den folgenden Kapiteln betrachten wir die frei Shop-Software "Woocommerce" unter dem Gesichtspunkt
+Im den folgenden Kapiteln betrachten wir die freie Shop-Software "Woocommerce" unter der Aufgabenstellung
 
-> Produktdarstellung mit einem Bild und einer Produkt-Kurzbeschreibung
+> Produktdarstellung mit einem Bild und Produkt-Kurzbeschreibung

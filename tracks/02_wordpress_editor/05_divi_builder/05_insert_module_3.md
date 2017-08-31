@@ -1,4 +1,4 @@
-## Ein Module einfügen (3/6)
+## Ein Modul einfügen (3/6)
 
 Danach wählst du den Grid und fügst in die Spalte das Modul ein das du verwenden möchtest.
 

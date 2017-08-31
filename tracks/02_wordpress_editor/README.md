@@ -1,8 +1,8 @@
 # Wordpress Editor
 
-Auf den folgenden Seiten erfährst du alles, was du brauchst um die Inhalte deiner Webseite zu ändern oder zu erweitern.
+Auf den folgenden Seiten erfährst du, wie du die Inhalte deiner Webseite änderst und erweiterst.
 
-Wenn du Fragen hast, schreib uns einfach an:
+Wenn du Fragen hast, schreib uns:
 
 [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
 
@@ -60,11 +60,11 @@ Wenn du Fragen hast, schreib uns einfach an:
      - [Was ist ein Grid?](./05_divi_builder/02_what_is_a_grid.md) 
      - [Was ist eine Zeile?](./05_divi_builder/03_what_is_row.md) 
      - [Was ist ein Modul?](./05_divi_builder/04_what_is_a_module.md) 
-     - [Ein Module einfügen (1/6)](./05_divi_builder/05_insert_module_1.md) 
-     - [Ein Module einfügen (2/6)](./05_divi_builder/05_insert_module_2.md) 
-     - [Ein Module einfügen (3/6)](./05_divi_builder/05_insert_module_3.md) 
-     - [Ein Module einfügen (4/6)](./05_divi_builder/05_insert_module_4.md) 
-     - [Ein Module einfügen (5/6)](./05_divi_builder/05_insert_module_5.md) 
-     - [Ein Module einfügen (6/6)](./05_divi_builder/05_insert_module_6.md) 
+     - [Ein Modul einfügen (1/6)](./05_divi_builder/05_insert_module_1.md) 
+     - [Ein Modul einfügen (2/6)](./05_divi_builder/05_insert_module_2.md) 
+     - [Ein Modul einfügen (3/6)](./05_divi_builder/05_insert_module_3.md) 
+     - [Ein Modul einfügen (4/6)](./05_divi_builder/05_insert_module_4.md) 
+     - [Ein Modul einfügen (5/6)](./05_divi_builder/05_insert_module_5.md) 
+     - [Ein Modul einfügen (6/6)](./05_divi_builder/05_insert_module_6.md) 
      - [Module Text](./05_divi_builder/06_module_text.md) 
 

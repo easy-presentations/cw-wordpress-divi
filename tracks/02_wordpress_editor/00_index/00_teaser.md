@@ -1,7 +1,7 @@
 # Wordpress Editor
 
-Auf den folgenden Seiten erfährst du alles, was du brauchst um die Inhalte deiner Webseite zu ändern oder zu erweitern.
+Auf den folgenden Seiten erfährst du, wie du die Inhalte deiner Webseite änderst und erweiterst.
 
-Wenn du Fragen hast, schreib uns einfach an:
+Wenn du Fragen hast, schreib uns:
 
 [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)

@@ -1,1 +1,1 @@
-# Wordpress - ein Überblick
+# Überblick

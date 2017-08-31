@@ -1,6 +1,6 @@
 ## Kommentare aktivieren/deaktivieren (2/3)
 
-Die Änderung der Einstellung wirkt sich nur auf zukünftige Seiten/Beiträge aus.
+Die Änderung der Einstellung wirkt sich nur auf zukünftige Beiträge/Seiten aus.
 
 Alle bereits vorhandenen Beiträge/Seiten behalten die vorherige Einstellung.
 

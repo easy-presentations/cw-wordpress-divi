@@ -1,6 +1,6 @@
 ## Zeitraum definieren (2/5)
 
-Wähle Nun *Standort*, *Dienst* und *Mitarbeiter* (Es gibt in der Regel nur einen).
+Wähle Nun *Standort*, *Dienst* und *Mitarbeiter* (es gibt in der Regel nur einen).
 
 Markiere alle Tage von Montag bis Freitag mit gedrückter "Shift"-Taste.
 

@@ -1,8 +1,8 @@
 # Wordpress Grundlagen
 
-Auf den folgenden Seiten erfährst du alles über die Grundlagen im Umgang mit Wordpress.
+Auf den folgenden Seiten erklären wir dir die Grundlagen von Wordpress.
 
-Wenn du Fragen hast, schreib uns einfach an:
+Wenn du Fragen hast, schreib uns:
 
 [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
 
@@ -10,8 +10,8 @@ Wenn du Fragen hast, schreib uns einfach an:
      - [Wordpress Grundlagen](./00_index/00_teaser.md) 
      - [Topics](./00_index/01_topics.md) 
 
-  - [Wordpress - ein Überblick](./01_overview) 
-     - [Wordpress - ein Überblick](./01_overview/00_teaser.md) 
+  - [Überblick](./01_overview) 
+     - [Überblick](./01_overview/00_teaser.md) 
      - [Was ist Wordpress?](./01_overview/01_what_is_wordpress.md) 
      - [Was ist ein CMS-System?](./01_overview/02_what_is_a_cms_system.md) 
      - [Was ist Content?](./01_overview/03_what_is_content.md) 
