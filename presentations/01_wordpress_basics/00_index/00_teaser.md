@@ -1,4 +1,4 @@
-# Wordpress Grundlagen
+# Wordpress - Grundlagen
 
 Auf den folgenden Seiten erklären wir dir die Grundlagen von Wordpress.
 

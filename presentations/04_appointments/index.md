@@ -1,6 +1,6 @@
 
-  - [Wordpress Terminbuchung](./00_index) 
-     - [Wordpress Terminbuchung](./00_index/00_teaser.md) 
+  - [Terminbuchung](./00_index) 
+     - [Terminbuchung](./00_index/00_teaser.md) 
      - [Topics](./00_index/01_topics.md) 
 
   - [Überblick](./01_overview) 

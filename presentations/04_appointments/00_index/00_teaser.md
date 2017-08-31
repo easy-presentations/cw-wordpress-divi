@@ -1,4 +1,4 @@
-# Wordpress Terminbuchung
+# Terminbuchung
 
 Auf den folgenden Seiten erfährst du, wie du deine Termin-Buchungs-Funktion konfigurierst.
 

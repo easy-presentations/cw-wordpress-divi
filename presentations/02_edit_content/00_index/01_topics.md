@@ -1,6 +1,5 @@
 # Topics
 
-  - Wordpress Editor
   - Aufbau einer Webseite
   - Seiten vs. Beiträge
   - Beiträge

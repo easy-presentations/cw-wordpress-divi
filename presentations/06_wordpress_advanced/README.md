@@ -1,4 +1,4 @@
-# Wordpress für Fortgeschrittene
+# Wordpress - Fortgeschritten
 
 Auf den folgenden Seiten erfährst du als fortgeschrittener Benutzer mehr über die interne Funktionsweise von Wordpress.
 
@@ -6,8 +6,8 @@ Wenn du Fragen hast, schreib uns:
 
 [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
 
-  - [Wordpress für Fortgeschrittene](./00_index) 
-     - [Wordpress für Fortgeschrittene](./00_index/00_teaser.md) 
+  - [Wordpress - Fortgeschritten](./00_index) 
+     - [Wordpress - Fortgeschritten](./00_index/00_teaser.md) 
      - [Topics](./00_index/01_topics.md) 
 
   - [Plugins](./01_plugins) 

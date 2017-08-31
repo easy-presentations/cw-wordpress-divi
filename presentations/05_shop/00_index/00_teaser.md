@@ -1,4 +1,4 @@
-# Wordpress Shop
+# Shop - Produkte
 
 Auf den folgenden Seiten erfährst du alles darüber, wie du deinen Shop verwaltest.
 

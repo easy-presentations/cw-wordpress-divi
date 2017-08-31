@@ -1,4 +1,4 @@
-# Wordpress für Fortgeschrittene
+# Wordpress - Fortgeschritten
 
 Auf den folgenden Seiten erfährst du als fortgeschrittener Benutzer mehr über die interne Funktionsweise von Wordpress.
 

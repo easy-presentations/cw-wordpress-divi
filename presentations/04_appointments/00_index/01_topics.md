@@ -1,6 +1,5 @@
 # Topics
 
-  - Wordpress Terminbuchung
   - Überblick
   - Termine verwalten
   - Zeiträume verwalten

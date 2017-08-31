@@ -1,4 +1,4 @@
-# Wordpress Editor
+# Inhalt - bearbeiten
 
 Auf den folgenden Seiten erfährst du, wie du die Inhalte deiner Webseite änderst und erweiterst.
 

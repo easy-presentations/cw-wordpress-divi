@@ -1,6 +1,13 @@
+# Shop - Produkte
 
-  - [Wordpress Shop](./00_index) 
-     - [Wordpress Shop](./00_index/00_teaser.md) 
+Auf den folgenden Seiten erfährst du alles darüber, wie du deinen Shop verwaltest.
+
+Wenn du Fragen hast, schreib uns:
+
+[support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
+
+  - [Shop - Produkte](./00_index) 
+     - [Shop - Produkte](./00_index/00_teaser.md) 
      - [Topics](./00_index/01_topics.md) 
 
   - [Woocommerce](./01_woocommerce) 

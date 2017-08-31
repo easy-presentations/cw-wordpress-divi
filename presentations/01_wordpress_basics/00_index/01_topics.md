@@ -1,6 +1,5 @@
 # Topics
 
-  - Wordpress Grundlagen
   - Überblick
   - Grundlagen
   - Mediathek

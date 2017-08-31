@@ -1,4 +1,4 @@
-# Wordpress Editor
+# Inhalt - bearbeiten
 
 Auf den folgenden Seiten erfährst du, wie du die Inhalte deiner Webseite änderst und erweiterst.
 
@@ -6,8 +6,8 @@ Wenn du Fragen hast, schreib uns:
 
 [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
 
-  - [Wordpress Editor](./00_index) 
-     - [Wordpress Editor](./00_index/00_teaser.md) 
+  - [Inhalt - bearbeiten](./00_index) 
+     - [Inhalt - bearbeiten](./00_index/00_teaser.md) 
      - [Topics](./00_index/01_topics.md) 
 
   - [Aufbau einer Webseite](./01_page_elements) 

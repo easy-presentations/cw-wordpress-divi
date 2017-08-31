@@ -1,6 +1,6 @@
 
-  - [Wordpress für Fortgeschrittene](./00_index) 
-     - [Wordpress für Fortgeschrittene](./00_index/00_teaser.md) 
+  - [Wordpress - Fortgeschritten](./00_index) 
+     - [Wordpress - Fortgeschritten](./00_index/00_teaser.md) 
      - [Topics](./00_index/01_topics.md) 
 
   - [Plugins](./01_plugins) 
