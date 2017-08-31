@@ -14,7 +14,6 @@
   - [Grundlagen](./02_basics) 
      - [Grundlagen](./02_basics/00_teaser.md) 
      - [Konfiguration](./02_basics/01_configuration.md) 
-     - [Permalinks](./02_basics/02_permalinks.md) 
 
   - [Mediathek](./04_mediathek) 
      - [Mediathek](./04_mediathek/00_teaser.md) 
