@@ -1,5 +1,5 @@
 # Kapitelübersicht
 
-  - => Woocommerce
-  - => Create/product
-  - => Edit/product
+  - Überblick
+  - Produkte anlegen
+  - Produkt bearbeiten

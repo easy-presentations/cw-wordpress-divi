@@ -1,6 +1,6 @@
 # Kapitelübersicht
 
-  - => Plugins
+  - Plugins
   - Benutzer
   - Backups
   - Permalinks

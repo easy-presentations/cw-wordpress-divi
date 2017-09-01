@@ -10,7 +10,8 @@ Wenn du Fragen oder Anregungen hast:
      - [Wordpress - Fortgeschritten](./00_index/00_teaser.md) 
      - [Kapitelübersicht](./00_index/01_topics.md) 
 
-  - [=> Plugins](./01_plugins) 
+  - [Plugins](./01_plugins) 
+     - [Plugins](./01_plugins/00_teaser.md) 
      - [Was sind Plugins?](./01_plugins/01_wat_are_plugins.md) 
      - [Installierte Plugins](./01_plugins/02_installed_plugins.md) 
      - [Plugins installieren](./01_plugins/03_install_plugins.md) 
