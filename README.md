@@ -11,7 +11,7 @@ Du kannst die Dokumentationen in verschiedenen Formaten abrufen:
 
 #### PDF-Dateien zum Herunterladen
 
-  * https://github.com/easy-presentations/cw-wordpress-divi/tree/master/presentations
+  * https://github.com/easy-presentations/cw-wordpress-divi/tree/master/index.pdfs.md
 
 
 #### Webbrowser
