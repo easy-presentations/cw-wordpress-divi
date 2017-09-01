@@ -11,7 +11,8 @@ Wenn du Fragen oder Anregungen hast:
      - [Kapitelübersicht](./00_index/01_topics.md) 
 
   - [=> Woocommerce](./01_woocommerce) 
-     - [Woocommerce](./01_woocommerce/01_basic.md) 
+     - [Was ist WooCommerce?](./01_woocommerce/01_what_is_woocommerce.md) 
+     - [Was machen wir jetzt mit WooCommerce?](./01_woocommerce/02_how_we_use_this.md) 
 
   - [=> Create/product](./02_create_product) 
      - [Neues Produkt anlegen](./02_create_product/01_create.md) 
