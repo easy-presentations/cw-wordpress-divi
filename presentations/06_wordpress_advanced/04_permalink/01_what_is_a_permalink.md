@@ -1,8 +1,8 @@
 ## Was ist ein Permalink?
 
-Die **Permalink-Struktur** definiert, wie die URL zu einer bestimmten Seite oder einem Bestimmten Beitrag aussehen.
+Die **Permalink-Struktur** definiert, wie die URL zu einer bestimmten Seite oder einem bestimmten Beitrag aussieht.
 
-Idealerweise steht in den URL der Titel deines Beitrages, um es den Suchmaschinen die Arbeit zu erleichtern.
+Idealerweise steht in der URL der Titel deines Beitrages, um den Suchmaschinen die Arbeit zu erleichtern.
 
 Die **Permalink-Einstellungen** findest du unter _**Einstellungen/Permalinks**_.
 
