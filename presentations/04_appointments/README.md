@@ -8,7 +8,7 @@ Wenn du Fragen oder Anregungen hast:
 
   - [Terminbuchung](./00_index) 
      - [Terminbuchung](./00_index/00_teaser.md) 
-     - [Topics](./00_index/01_topics.md) 
+     - [Kapitel](./00_index/01_topics.md) 
 
   - [Überblick](./01_overview) 
      - [Überblick](./01_overview/00_teaser.md) 

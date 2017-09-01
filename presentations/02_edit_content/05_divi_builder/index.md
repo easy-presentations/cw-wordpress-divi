@@ -10,4 +10,4 @@
   - [Modul hinzufügen *(4/6)*](./05_insert_module_4.md) 
   - [Modul hinzufügen *(5/6)*](./05_insert_module_5.md) 
   - [Modul hinzufügen *(6/6)*](./05_insert_module_6.md) 
-  - [Module Text](./06_module_text.md) 
+  - [=> Module/text](./06_module_text.md) 

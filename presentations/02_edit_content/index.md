@@ -1,7 +1,7 @@
 
   - [Inhalt - bearbeiten](./00_index) 
      - [Inhalt - bearbeiten](./00_index/00_teaser.md) 
-     - [Topics](./00_index/01_topics.md) 
+     - [Kapitel](./00_index/01_topics.md) 
 
   - [Aufbau einer Webseite](./01_page_elements) 
      - [Aufbau einer Webseite](./01_page_elements/00_teaser.md) 
@@ -59,5 +59,5 @@
      - [Modul hinzufügen *(4/6)*](./05_divi_builder/05_insert_module_4.md) 
      - [Modul hinzufügen *(5/6)*](./05_divi_builder/05_insert_module_5.md) 
      - [Modul hinzufügen *(6/6)*](./05_divi_builder/05_insert_module_6.md) 
-     - [Module Text](./05_divi_builder/06_module_text.md) 
+     - [=> Module/text](./05_divi_builder/06_module_text.md) 
 

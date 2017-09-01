@@ -1,17 +1,17 @@
 # Creative-Workflow Wordpress Dokumentation
 
-Hier findest du die Dokumentation zu deiner Wordpress-Webseite von [Creative-Workflow](https://www.creative-workflow.berlin).
+Hier findest du die Dokumentationen zu deiner Wordpress-Webseite von [Creative-Workflow](https://www.creative-workflow.berlin).
 
-Du kannst die Dokumentation in verschiedenen Formaten abrufen:
+Du kannst die Dokumentationen in verschiedenen Formaten abrufen:
 
 #### Online-Präsentation
 
   * https://easy-presenter.github.io/easy-presenter/?repository=cw-wordpress-divi
 
 
-#### PDF-Datei zum Herunterladen
+#### PDF-Dateien zum Herunterladen
 
-  * https://github.com/easy-presentations/cw-wordpress-divi/tree/master/presentations.pdf
+  * https://github.com/easy-presentations/cw-wordpress-divi/tree/master/presentations
 
 
 #### Webbrowser
@@ -22,4 +22,3 @@ Du kannst die Dokumentation in verschiedenen Formaten abrufen:
 ## Kontakt
   * [support@creative-workflow.berlin](mailto:support@creative-workflow.berlin)
   * https://www.creative-workflow.berlin
-  
