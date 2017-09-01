@@ -1,6 +1,6 @@
 # Dashboard
 
-Nach dem du dich erfolgreich eingeloggt hast, sieht du das Dashboard mit Hinweisen und Hilfestellungen.
+Nachdem du dich erfolgreich eingeloggt hast, sieht du das Dashboard mit Hinweisen und Hilfestellungen.
 
 Außerdem siehst du das Kopfzeilenmenü und das Seitenmenü.
 
