@@ -1,7 +1,7 @@
 
   - [Shop - Produkte](./00_index) 
      - [Shop - Produkte](./00_index/00_teaser.md) 
-     - [Kapitel](./00_index/01_topics.md) 
+     - [Kapitelübersicht](./00_index/01_topics.md) 
 
   - [=> Woocommerce](./01_woocommerce) 
      - [Woocommerce](./01_woocommerce/01_basic.md) 

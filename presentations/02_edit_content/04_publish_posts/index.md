@@ -1,12 +1,5 @@
-# Veröffentlichen von Inhalten
 
-Du hast gelernt wie du eine Seite oder einen Beitrag erstellst, editierst und löschst.
-
-Bis jetzt haben wir aber nur "Entwürfe" erstellt, d.h. keine der bis jetzt angelegten Seiten oder Beiträge ist öffentlich sichtbar.
-
-Um das zu ändern, müssen wir die Seiten oder Beiträge veröffentlichen (publizieren).
-
-  - [Veröffentlichen von Inhalten](./00_teaser.md) 
+  - [Beiträge veröffentlichen](./00_teaser.md) 
   - [Veröffentlichen](./01_publish.md) 
   - [Veröffentlicht](./02_published.md) 
   - [Veröffentlichen - passwortgeschützt *(1/3)*](./03_publish_with_password_1.md) 

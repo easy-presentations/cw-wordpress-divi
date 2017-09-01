@@ -1,4 +1,4 @@
-# Kapitel
+# Kapitelübersicht
 
   - => Plugins
   - Benutzer

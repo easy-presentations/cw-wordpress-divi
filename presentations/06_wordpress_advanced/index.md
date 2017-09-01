@@ -1,7 +1,7 @@
 
   - [Wordpress - Fortgeschritten](./00_index) 
      - [Wordpress - Fortgeschritten](./00_index/00_teaser.md) 
-     - [Kapitel](./00_index/01_topics.md) 
+     - [Kapitelübersicht](./00_index/01_topics.md) 
 
   - [=> Plugins](./01_plugins) 
      - [Was sind Plugins?](./01_plugins/01_wat_are_plugins.md) 

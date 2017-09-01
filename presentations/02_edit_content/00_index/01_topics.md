@@ -1,7 +1,7 @@
-# Kapitel
+# Kapitelübersicht
 
   - Aufbau einer Webseite
-  - Seiten vs. Beiträge
-  - Beiträge
-  - Veröffentlichen von Inhalten
-  - Der Divi-Builder
+  - Seiten und Beiträge
+  - Beiträge bearbeiten
+  - Beiträge veröffentlichen
+  - Mit dem **Page-Builder** Beiträge bearbeiten

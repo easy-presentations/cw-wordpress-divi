@@ -8,7 +8,7 @@ Wenn du Fragen oder Anregungen hast:
 
   - [Inhalt - Module](./00_index) 
      - [Inhalt - Module](./00_index/00_teaser.md) 
-     - [Kapitel](./00_index/01_topics.md) 
+     - [Kapitelübersicht](./00_index/01_topics.md) 
 
   - [Text Modul](./01_text_modul) 
      - [Text Modul](./01_text_modul/00_teaser.md) 

@@ -1,4 +1,4 @@
-# Kapitel
+# Kapitelübersicht
 
   - => Woocommerce
   - => Create/product

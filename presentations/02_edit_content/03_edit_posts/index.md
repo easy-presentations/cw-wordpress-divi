@@ -1,5 +1,5 @@
 
-  - [Beiträge](./00_teaser.md) 
+  - [Beiträge bearbeiten](./00_teaser.md) 
   - [Beitrag erstellen *(1/4)*](./02_create_1.md) 
   - [Beitrag erstellen *(2/4)*](./02_create_2.md) 
   - [Beitrag erstellen *(3/4)*](./02_create_3.md) 

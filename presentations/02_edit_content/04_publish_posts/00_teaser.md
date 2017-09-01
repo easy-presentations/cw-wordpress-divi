@@ -1,4 +1,4 @@
-# Veröffentlichen von Inhalten
+# Beiträge veröffentlichen
 
 Du hast gelernt wie du eine Seite oder einen Beitrag erstellst, editierst und löschst.
 
