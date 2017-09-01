@@ -1,6 +1,6 @@
 ## Was ist die Terminbuchung?
 
-Die **Terminbuchungs-Funktion** ermöglicht deinen Kunden in von dir festgelegten Zeiträumen einen Termin zu vereinbaren.
+Die **Terminbuchungs-Funktion** ermöglicht deinen Kunden, in von dir festgelegten Zeiträumen, einen Termin zu vereinbaren.
 
 Du kannst diese _**Terminvorschläge**_ annehmen, ablehnen oder verschieben.
 
