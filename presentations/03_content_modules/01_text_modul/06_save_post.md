@@ -1,7 +1,7 @@
 ## Seite/Beitrag speichern
 
-Vorher hast du die Änderungen im Text-Modul gespeichert, aber noch nicht die Änderung der Seite/ des Beitrages.
+Vorher hast du die Änderungen im Text-Modul gespeichert, aber noch nicht die Änderung des Beitrages selbst.
 
-Klicke dazu auf "Aktualisieren" um die Seite/den Beitrag zu speichern.
+Klicke dazu auf _**Aktualisieren**_ um die den Beitrag zu speichern.
 
 ![image](./assets/save_post.jpg)

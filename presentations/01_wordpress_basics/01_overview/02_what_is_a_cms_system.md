@@ -1,5 +1,7 @@
 ## Was ist ein CMS-System?
 
-Ein **C**ontent **M**anagement **S**ystem (kurz **CMS**) ist eine Software, die zur Erstellung und Verwaltung von Inhalten wie Texten, Bildern und Videos, etc.) verwendet wird.
+> Ein Content-Management-System [...] ist eine Software zur gemeinschaftlichen Erstellung, Bearbeitung und Organisation von Inhalten [...] in Webseiten.
 
-Deine Webseite basiert auf dem CMS-System [Wordpress](https://de.wikipedia.org/wiki/WordPress).
+[Wikipedia](https://de.wikipedia.org/wiki/Content-Management-System)
+
+##### Deine Webseite basiert auf dem [Wordpress CMS-System](https://de.wordpress.org/)

@@ -4,7 +4,7 @@ Beiträge sind die Einträge, die in umgekehrter chronologischer Reihenfolge auf
 
 Beiträge können in den Archiven, Kategorien, zuletzt veröffentlichten Beiträgen und anderen Widgets gefunden werden.
 
-Du findest sie im Seitenmenü unter "Beiträge".
+Du findest sie im Seitenmenü unter _**Beiträge**_.
 
 Die URL für einen Beitrag kann z.B. so aussehen:
 

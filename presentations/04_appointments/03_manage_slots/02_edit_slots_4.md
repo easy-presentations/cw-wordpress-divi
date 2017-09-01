@@ -1,6 +1,6 @@
 ## Zeiträume bearbeiten *(4/4)*
 
-Bearbeite nun den Zeitraum und klicke auf "Speichern" wenn du fertig bist.
+Bearbeite nun den Zeitraum und klicke auf _**Speichern**_ wenn du fertig bist.
 
 **Hinweis:** Achte auf die Auswahl, ob du in diesem Zeitraum arbeitest oder nicht.
 

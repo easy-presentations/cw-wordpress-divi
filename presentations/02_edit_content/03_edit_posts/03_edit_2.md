@@ -1,6 +1,6 @@
 ## Beitrag bearbeiten *(2/3)*
 
-Jetzt kannst du deinen Beitrag bearbeiten (wie genau erfährst du in dem Kapitel "Divi-Builder") und dann "Speichern" nicht vergessen.
+Jetzt kannst du deinen Beitrag bearbeiten (wie genau erfährst du in dem Kapitel "Mit dem **Page-Builder** Beiträge bearbeiten") und dann _**Speichern**_ nicht vergessen.
 
 ![image](./assets/save.jpg)
 

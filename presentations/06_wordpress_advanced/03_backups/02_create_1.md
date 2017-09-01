@@ -1,7 +1,7 @@
-## Erstellung eines Backup? *(1/2)*
+## Erstellung eines Backups *(1/2)*
 
-Navigiere im Seitenmenü zu "Backup" und klicke im Widget "One-click backup" auf "Default Backup Profile".
+Ein **Backup** erstellst du, indem du im Seitenmenü zu _**Backup**_ navigierst und im Widget _**One-click backup**_ auf _**Default Backup Profile**_ klickst.
 
 ![image](./assets/create_1.jpg)
 
-Klickst du auf "Manage Backups", sieht man eine Übersicht aller bisher angelegten Backups.
+**Heinweis**: Wenn du im oberen Bereich auf "Manage Backups" klickst, sieht du eine Übersicht deiner gespeicherten Backups.

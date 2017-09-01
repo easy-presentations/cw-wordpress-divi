@@ -1,6 +1,6 @@
 ## Beitrag erstellen *(4/4)*
 
-Wenn du jetzt auf "Speichern" klickst, wird dein Beitrag als Entwurf gespeichert.
+Wenn du jetzt auf _**Speichern**_ klickst, wird dein Beitrag als Entwurf gespeichert.
 
 ![image](./assets/save.jpg)
 

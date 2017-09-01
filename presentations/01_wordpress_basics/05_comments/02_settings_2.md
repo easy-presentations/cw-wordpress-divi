@@ -4,6 +4,6 @@ Die Änderung der Einstellung wirkt sich nur auf zukünftige Beiträge/Seiten au
 
 Alle bereits vorhandenen Beiträge/Seiten behalten die vorherige Einstellung.
 
-Um die Kommentar-Funktion für bereits vorhandene Beiträge/Seiten freizuschalten, verwende die "Quick Edit" Funktion, welche man unter Beiträge/Seiten findet.
+Um die Kommentar-Funktion für bereits vorhandene Beiträge/Seiten freizuschalten, verwende die _**Quick Edit**_ Funktion, welche man unter Beiträge/Seiten findet.
 
 ![image](./assets/settings_per_post.jpg)

@@ -1,8 +1,8 @@
 ## Was ist eine Seite?
 
-**Seiten** werden genutzt um statische Inhalte darzustellen. Eine "Über mich"- oder Impressum-Seite ist ein klassisches Beispiel.
+**Seiten** werden genutzt um statische Inhalte darzustellen. Eine `Über mich`- oder `Impressum`-Seite ist ein klassisches Beispiel.
 
-Du findest sie im Seitenmenü unter "Seiten".
+Du findest sie im Seitenmenü unter _**Seiten**_.
 
 Seiten können hierarchisch strukturiert werden (Eltern-/Kind-Seiten).
 

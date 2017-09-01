@@ -1,5 +1,5 @@
-## Erstellung eines Backup? *(2/2)*
+## Erstellung eines Backups *(2/2)*
 
-Wenn du die Information "Backup Completed Successfully" erhältst, ist das Backup erfolgreich abgeschlossen.
+Wenn du die Statusmeldung _**Backup Completed Successfully**_ siehst, wurde das Backup erfolgreich gespeichert.
 
 ![image](./assets/create_2.jpg)

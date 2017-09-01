@@ -1,7 +1,10 @@
 ## Was ist Wordpress?
 
-Wordpress ist ein Content Management System.
+> WordPress ist eine (freie) Webanwendung zur Verwaltung der Inhalte einer Website.
 
-- **C**ontent
-- **M**anagement
-- **S**ystem
+  [Wikipedia](https://de.wikipedia.org/wiki/WordPress)
+
+### Wordpress ist ein:
+#### **C** (ontent)
+#### **M** (anagement)
+#### **S** (ystem)

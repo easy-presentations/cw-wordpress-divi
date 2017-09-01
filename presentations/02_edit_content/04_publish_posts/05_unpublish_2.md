@@ -1,5 +1,5 @@
 ## Wieder "Verstecken" *(2/3)*
 
-Wähle nun "Entwurf" und klicke auf "OK". Zum Speichern klicke "Aktualisieren".
+Wähle nun _**Entwurf**_ und klicke auf _**OK**_. Zum Speichern klicke _**Aktualisieren**_.
 
 ![image](./assets/unpublish_select.jpg)
