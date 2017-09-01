@@ -9,14 +9,16 @@ Du kannst die Dokumentationen in verschiedenen Formaten abrufen:
   * https://easy-presenter.github.io/easy-presenter/?repository=cw-wordpress-divi
 
 
-#### PDF-Dateien zum Herunterladen
-
-  * https://github.com/easy-presentations/cw-wordpress-divi/tree/master/presentations/index.pdfs.md
-
-
 #### Webbrowser
 
   * https://github.com/easy-presentations/cw-wordpress-divi/tree/master/presentations
+
+
+#### PDF-Dateien zum Herunterladen
+
+  * https://github.com/easy-presentations/cw-wordpress-divi/blob/master/presentations/index-pdfs.md
+
+
 
 
 ## Kontakt
