@@ -4,4 +4,4 @@ Ein beliebtes SEO-Tool für Wordpress ist [Yoast SEO](https://yoast.com/wordpres
 
 Es bietet die Möglichkeit den Titel und die  Meta-Description deines Beitrages zu bearbeiten.
 
-Außerdem gibt es dir Hilfreiche Tipps, wie du deine Texte für Suchmaschinen zu optimieren.
+Außerdem gibt es dir hilfreiche Tipps, wie du deine Texte für Suchmaschinen optimieren kannst.
