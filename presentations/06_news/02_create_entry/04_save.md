@@ -4,4 +4,4 @@ Klicke auf _**Speichern**_ (wenn du den Eintrag nur als Entwurf speichern möcht
 
 Weitere Informationen zum Veröffentlichen findest du im Kapitel [Beiträge veröffentlichen](https://easy-presenter.github.io/easy-presenter/?repository=cw-wordpress-divi?presentation=./02_edit_content#/4).
 
-![image](./assets/fill.png)
+![image](./assets/save.png)

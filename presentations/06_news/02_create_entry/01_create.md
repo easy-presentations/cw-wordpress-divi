@@ -2,4 +2,4 @@
 
 Klicke im Seitenmenü auf _**Neuigkeiten/Eintrag erstellen**_.
 
-![image](./assets/create.jpg)
+![image](./assets/create.png)
