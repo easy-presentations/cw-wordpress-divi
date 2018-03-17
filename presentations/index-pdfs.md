@@ -5,4 +5,5 @@
   - [Inhalt - Module (pdf)](./03_content_modules/cw-wordpress-03_content_modules.pdf)
   - [Terminbuchung (pdf)](./04_appointments/cw-wordpress-04_appointments.pdf)
   - [Shop - Produkte (pdf)](./05_shop/cw-wordpress-05_shop.pdf)
-  - [Wordpress - Fortgeschritten (pdf)](./06_wordpress_advanced/cw-wordpress-06_wordpress_advanced.pdf)
+  - [Neuigkeiten / News (pdf)](./06_news/cw-wordpress-06_news.pdf)
+  - [Wordpress - Fortgeschritten (pdf)](./07_wordpress_advanced/cw-wordpress-07_wordpress_advanced.pdf)

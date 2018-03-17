@@ -2,5 +2,6 @@
 
   - Plugins
   - Benutzer
-  - Backups
+  - Backup/Restore
   - Permalinks
+  - Software-Update

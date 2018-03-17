@@ -1,5 +1,6 @@
+# Backup/Restore
 
-  - [Backups](./00_teaser.md) 
+  - [Backup/Restore](./00_teaser.md) 
   - [Wofür brauche ich Backups?](./01_why_a_backup.md) 
   - [Erstellung eines Backups *(1/2)*](./02_create_1.md) 
   - [Erstellung eines Backups *(2/2)*](./02_create_2.md) 
