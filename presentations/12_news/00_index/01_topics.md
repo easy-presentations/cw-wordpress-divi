@@ -3,4 +3,3 @@
   - Übersicht
   - News-Eintrag Erstellen
   - Caching
-  - Assets

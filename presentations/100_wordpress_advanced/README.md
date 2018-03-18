@@ -37,9 +37,11 @@ Wenn du Fragen oder Anregungen hast:
 
   - [Software-Update](./05_software_update) 
      - [Software-Update](./05_software_update/00_teaser.md) 
-     - [Was ist ein Permalink?](./05_software_update/01_create_backup.md) 
-     - [Was ist ein Permalink?](./05_software_update/02_update_wordpress.md) 
-     - [Was ist ein Permalink?](./05_software_update/03_update_plugins.md) 
-     - [Was ist ein Permalink?](./05_software_update/04_update_languages.md) 
-     - [Was ist ein Permalink?](./05_software_update/05_what_when_it_failed.md) 
+     - [Überblick](./05_software_update/01_overview.md) 
+     - [Backup erstellen](./05_software_update/02_create_backup.md) 
+     - [Wordpress aktualisieren](./05_software_update/03_update_wordpress.md) 
+     - [Plugins aktualisieren](./05_software_update/04_update_plugins.md) 
+     - [Themes aktualisieren](./05_software_update/05_update_themes.md) 
+     - [Sprachdateien aktualisieren](./05_software_update/06_update_languages.md) 
+     - [Abgebrochene Updates / Wartungsarbeiten](./05_software_update/07_update_failed_maintenance.md) 
 

@@ -5,3 +5,5 @@ Ein **Plugin** ist eine Datei (oder eine Sammlung von Dateien) das **Wordpress**
 Es gibt viele verschiedene kostenlose und kostenpflichtige Plugins.
 
 Eine Übersicht der kostenlosen Plugins findest du z.B. hier: https://de.wordpress.org/plugins/
+
+**ACHTUNG**: Jedes Plugin beeinträchtig die Geschwindigkeit und Sicherheit deiner Webseite. Weniger ist mehr!

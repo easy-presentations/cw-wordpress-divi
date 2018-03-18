@@ -17,4 +17,7 @@
      - [Startseiten-Eintrag festlegen](./02_create_entry/03_landingpage_entry.md) 
      - [Speichern](./02_create_entry/04_save.md) 
 
-  - [Caching](./03_caching.md) 
+  - [Caching](./03_caching) 
+     - [Caching](./03_caching/00_teaser.md) 
+     - [Caching](./03_caching/01_caching.md) 
+
